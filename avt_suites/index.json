@@ -5,5 +5,12 @@
   "versionName":"1.1.45",
   "versionCode":353,
   "size":18687108,
-  "sha256":"5c321172eb0343633115a9bed03218eeb8a564137f6b80ef8608e5255c23ec0b"}
+  "sha256":"5c321172eb0343633115a9bed03218eeb8a564137f6b80ef8608e5255c23ec0b"},
+ {"package":"com.avt.runner",
+  "file":"avt-cartoon-screen-1.11.apk",
+  "label":"AVT Cartoon Screen",
+  "versionName":"1.11",
+  "versionCode":12,
+  "size":5045871,
+  "sha256":"ee378539719e5754e473d0dc51049a3e794b95621cc30a996817c3b379a299da"}
 ]}
