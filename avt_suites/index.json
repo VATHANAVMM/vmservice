@@ -17,6 +17,15 @@
    "versionCode": 13,
    "size": 5062313,
    "sha256": "6cf807b5777c182c57fc5dff77906cd46c62e46c19f5ad8b7a43f6fab7926579"
+  },
+  {
+   "package": "com.avt.display",
+   "file": "avatr-display-3.6.apk",
+   "label": "AVATR Display",
+   "versionName": "3.6",
+   "versionCode": 27,
+   "size": 7002632,
+   "sha256": "ee436f24ad0cf1e153cfc7cfcb8772ae7c7a65038ef27816f20b2c42dd8be24f"
   }
  ],
  "microg": [
