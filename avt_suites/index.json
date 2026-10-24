@@ -17,15 +17,6 @@
    "versionCode": 13,
    "size": 5062313,
    "sha256": "6cf807b5777c182c57fc5dff77906cd46c62e46c19f5ad8b7a43f6fab7926579"
-  },
-  {
-   "package": "com.avt.display",
-   "file": "avatr-display-3.5.apk",
-   "label": "AVATR Display",
-   "versionName": "3.5",
-   "versionCode": 26,
-   "size": 7002630,
-   "sha256": "9e1d69046f64db4910bc3206162b48faeb7db5f244d8947d2752e53c201dac60"
   }
  ],
  "microg": [
