@@ -2,12 +2,12 @@
  "apps": [
   {
    "package": "com.avt.kit",
-   "file": "avt-kit.v1.1.48.356.apk",
+   "file": "avt-kit.v2.0.357.apk",
    "label": "AVT Kit",
-   "versionName": "1.1.48",
-   "versionCode": 356,
-   "size": 18670833,
-   "sha256": "d7cb361a84758791287e9a3136271216e99b84c4e63173a35be32add627c95e2"
+   "versionName": "2.0",
+   "versionCode": 357,
+   "size": 18732355,
+   "sha256": "e06c887bef2e7ac113148d6113b30fc60515ea1d7620c9a499b5e06177690ebd"
   },
   {
    "package": "com.avt.runner",
@@ -26,6 +26,42 @@
    "versionCode": 27,
    "size": 7002632,
    "sha256": "ee436f24ad0cf1e153cfc7cfcb8772ae7c7a65038ef27816f20b2c42dd8be24f"
+  },
+  {
+   "package": "com.avt.map",
+   "file": "avt-map-2.0.1.apk",
+   "label": "AVT Map",
+   "versionName": "2.0.1",
+   "versionCode": 88,
+   "size": 1334018,
+   "sha256": "0042c9b129f187493fdf297c3686caf115446d132537a2c8e0776140ff68137f"
+  },
+  {
+   "package": "com.avt.cast",
+   "file": "avt-cast-2.3.apk",
+   "label": "AVT Cast",
+   "versionName": "2.3",
+   "versionCode": 51,
+   "size": 157338,
+   "sha256": "b868137bc77769ccd31566013309b9b2bd3c48a9c1b120cb758f9fe4b42f23a3"
+  },
+  {
+   "package": "com.avt.store",
+   "file": "avt-store-2.1.apk",
+   "label": "AVT Store",
+   "versionName": "2.1",
+   "versionCode": 47,
+   "size": 255640,
+   "sha256": "9e69da193594934a911c66f05fc0a3ee5e14857275617c3de3a083abff20dcd7"
+  },
+  {
+   "package": "com.avt.splitscreen",
+   "file": "avt-splitscreen-2.1.apk",
+   "label": "AVT SplitScreen",
+   "versionName": "2.1",
+   "versionCode": 26,
+   "size": 116311,
+   "sha256": "86f3bf47315da3be4b81443b3151f710b3f0a3cadfbab81b207d5fa41eca72d1"
   }
  ],
  "microg": [
