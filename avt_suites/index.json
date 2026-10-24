@@ -2,12 +2,12 @@
  "apps": [
   {
    "package": "com.avt.kit",
-   "file": "avt-kit.v1.1.47.355.apk",
+   "file": "avt-kit.v1.1.48.356.apk",
    "label": "AVT Kit",
-   "versionName": "1.1.47",
-   "versionCode": 355,
-   "size": 18687108,
-   "sha256": "fb6cb313390a6861db43c8324829eb54f58e1ee50d30d75beed32f459b3b91de"
+   "versionName": "1.1.48",
+   "versionCode": 356,
+   "size": 18670833,
+   "sha256": "d7cb361a84758791287e9a3136271216e99b84c4e63173a35be32add627c95e2"
   },
   {
    "package": "com.avt.runner",
@@ -17,6 +17,15 @@
    "versionCode": 13,
    "size": 5062313,
    "sha256": "6cf807b5777c182c57fc5dff77906cd46c62e46c19f5ad8b7a43f6fab7926579"
+  },
+  {
+   "package": "com.avt.display",
+   "file": "avatr-display-3.0.apk",
+   "label": "AVATR Display",
+   "versionName": "3.0",
+   "versionCode": 21,
+   "size": 7002632,
+   "sha256": "6198aa8114b33d24ba2b5c5abf10161bd51fb4f804576e9a23c135dee684f044"
   }
  ],
  "microg": [
