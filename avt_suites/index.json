@@ -20,12 +20,12 @@
   },
   {
    "package": "com.avt.display",
-   "file": "avatr-display-3.6.apk",
+   "file": "avatr-display-3.7.apk",
    "label": "AVATR Display",
-   "versionName": "3.6",
-   "versionCode": 27,
-   "size": 7002632,
-   "sha256": "ee436f24ad0cf1e153cfc7cfcb8772ae7c7a65038ef27816f20b2c42dd8be24f"
+   "versionName": "3.7",
+   "versionCode": 28,
+   "size": 7002633,
+   "sha256": "c786fbbc5adcee5f2e9ae07d7af29ae28e764937d2818c7961a3321bf73a3c63"
   },
   {
    "package": "com.avt.map",
