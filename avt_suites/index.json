@@ -2,12 +2,12 @@
  "apps": [
   {
    "package": "com.avt.kit",
-   "file": "avt-kit.v2.1.4.362.apk",
+   "file": "avt-kit.v2.2.6.376.apk",
    "label": "AVT Kit",
-   "versionName": "2.1.4",
-   "versionCode": 362,
-   "size": 18736451,
-   "sha256": "09629005e081c5ac919f45f1e2c2740e1d5b39ea893bb1012123027fe2939199"
+   "versionName": "2.2.6",
+   "versionCode": 376,
+   "size": 18748806,
+   "sha256": "ebc9613eaa484b7c6df653897cf3e5c13b2ba3df22754960a5f7b913d2997a42"
   },
   {
    "package": "com.avt.runner",
@@ -29,12 +29,12 @@
   },
   {
    "package": "com.avt.map",
-   "file": "avt-map-2.0.1.apk",
+   "file": "avt-map-2.0.12.apk",
    "label": "AVT Map",
-   "versionName": "2.0.1",
-   "versionCode": 88,
-   "size": 1334018,
-   "sha256": "0042c9b129f187493fdf297c3686caf115446d132537a2c8e0776140ff68137f"
+   "versionName": "2.0.12",
+   "versionCode": 99,
+   "size": 1338114,
+   "sha256": "a6f25ad91f4815250b36f88b065f50b17e3b89fc8f04ddf775738aef10cf86ad"
   },
   {
    "package": "com.avt.cast",
