@@ -1,0 +1,4862 @@
+{
+ "schema": 1,
+ "rev": 5,
+ "updated": "2026-09-29",
+ "country": "KH",
+ "source": {
+  "name": "EV Station (Cambodia EV charging map, Google My Maps, public)",
+  "url": "https://www.google.com/maps/d/viewer?mid=1JxHmGjTnX0jO-TB2Zcz_TW2-INLbIvo"
+ },
+ "operators": {
+  "unifycharge": {
+   "name": "UnifyCharge",
+   "app": "UnifyCharge"
+  },
+  "mpwt": {
+   "name": "MPWT",
+   "app": "MPWT EVStation"
+  },
+  "khmerev": {
+   "name": "Khmer EV",
+   "app": "Khmer EV Charging"
+  },
+  "chargeplus": {
+   "name": "Charge+",
+   "app": "Charge+"
+  },
+  "ev168": {
+   "name": "EV168",
+   "app": "EV168"
+  },
+  "goev": {
+   "name": "GO EV",
+   "app": "EV Charge"
+  },
+  "evgate": {
+   "name": "EV-Gate",
+   "app": "EV_Gate+"
+  },
+  "ptt": {
+   "name": "PTT EV Station PluZ",
+   "app": "EV Station PluZ"
+  },
+  "evo": {
+   "name": "EVO",
+   "app": "EVO"
+  },
+  "private": {
+   "name": "Private"
+  },
+  "ptt-station": {
+   "name": "PTT Station"
+  },
+  "ev-energy": {
+   "name": "EV Energy"
+  },
+  "cg-ev-energy": {
+   "name": "CG-EV Energy"
+  },
+  "zo-motor": {
+   "name": "ZO motor"
+  },
+  "khmer-ev": {
+   "name": "Khmer EV"
+  },
+  "ev-168": {
+   "name": "EV 168"
+  },
+  "go-green-energy-co-ltd": {
+   "name": "Go Green Energy Co Ltd"
+  },
+  "plug-go": {
+   "name": "Plug & Go"
+  },
+  "mev-station": {
+   "name": "MEV Station"
+  },
+  "cartev-charging": {
+   "name": "CartEV Charging"
+  },
+  "k-ev-24-7": {
+   "name": "K EV 24/7"
+  },
+  "616-ev-station": {
+   "name": "616 EV Station"
+  },
+  "lim-long": {
+   "name": "Lim Long"
+  },
+  "energize-cambodia": {
+   "name": "Energize Cambodia"
+  },
+  "ev-energy-station": {
+   "name": "EV Energy Station"
+  },
+  "cam-ev": {
+   "name": "Cam EV"
+  },
+  "chaykim-ev-station": {
+   "name": "Chaykim EV Station"
+  },
+  "totalenergies": {
+   "name": "TotalEnergies"
+  },
+  "evgo-express-cambodia-co-ltd": {
+   "name": "EVGo Express Cambodia Co.,Ltd"
+  },
+  "op": {
+   "name": "ចំរើន ដេប៉ូតេលា"
+  },
+  "the-sky-ev": {
+   "name": "The Sky EV"
+  },
+  "ev168-2": {
+   "name": "EV168(សាខាទី2)"
+  },
+  "pol-rithy-ev": {
+   "name": "Pol Rithy EV"
+  },
+  "boreychey-ev": {
+   "name": "Boreychey EV"
+  },
+  "banteay-neang-ev-station": {
+   "name": "Banteay Neang EV Station"
+  },
+  "pich-ev-station": {
+   "name": "Pich EV Station"
+  },
+  "ev-energy-fast-charge": {
+   "name": "EV Energy (Fast Charge)"
+  },
+  "ev-charger": {
+   "name": "EV Charger"
+  },
+  "ce-clean-energy-fast-charge": {
+   "name": "CE Clean Energy (Fast Charge)"
+  },
+  "eabtry-ev-station": {
+   "name": "Eabtry EV Station"
+  },
+  "mk7-ev-station": {
+   "name": "MK7 EV Station"
+  },
+  "watt-ev-station": {
+   "name": "WATT EV Station"
+  },
+  "ev-station": {
+   "name": "EV Station"
+  },
+  "future-ev-energy": {
+   "name": "Future EV Energy"
+  },
+  "family-ev": {
+   "name": "Family EV"
+  },
+  "hps-charger-ev": {
+   "name": "HPS-CHARGER-EV"
+  },
+  "sk99-kiri-home-stay-7kw": {
+   "name": "SK99 ស្រែអំបិល Kiri Home Stay (7kw)"
+  }
+ },
+ "stations": [
+  {
+   "id": "mm-6607839911",
+   "name": "Courtyard",
+   "lat": 11.560517,
+   "lng": 104.922345,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "app": "GoEV",
+   "address": "Courtyard by Marriott",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-205bc78339",
+   "name": "Prek Leap",
+   "lat": 11.623516,
+   "lng": 104.925027,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "app": "QR ABA",
+   "address": "Prek Leap",
+   "hours": "24/7",
+   "facilities": [
+    "qr"
+   ]
+  },
+  {
+   "id": "mm-9348f33c03",
+   "name": "Lim Long (TK)",
+   "lat": 11.575277,
+   "lng": 104.891652,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "address": "Lim Long Gastation ផ្សារមាន់អាំង ទួលគោក",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-5b971b4800",
+   "name": "Connextion",
+   "lat": 11.552589,
+   "lng": 104.942517,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Connextion Koh Pich Island",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-31b07dae6b",
+   "name": "True Go",
+   "lat": 11.545913,
+   "lng": 104.922539,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 22
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "True Go Hotel BKK",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-017d1d319c",
+   "name": "PTT (VengSreng)",
+   "lat": 11.531622,
+   "lng": 104.861226,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "address": "PTT ផ្លូវវេងស្រេង",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-c32751aca7",
+   "name": "PTT (Prey Kei) DC",
+   "lat": 11.487623,
+   "lng": 104.816372,
+   "connectors": [
+    {
+     "type": "GBT_DC"
+    },
+    {
+     "type": "CCS2"
+    }
+   ],
+   "src": "mymaps",
+   "address": "PTT ព្រៃកី",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-cfa20abb4c",
+   "name": "SOHO",
+   "lat": 11.551743,
+   "lng": 104.934737,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "ផ្សារ SOHO",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-2cac62b78a",
+   "name": "Zeekr",
+   "lat": 11.541958,
+   "lng": 104.922346,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80
+    },
+    {
+     "type": "CCS2",
+     "kw": 80
+    }
+   ],
+   "src": "mymaps",
+   "address": "ZEEKR Showroom",
+   "hours": "8:00 AM - 7:00 PM",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាក (0964020631)  (Staff)"
+  },
+  {
+   "id": "mm-d102cf1c65",
+   "name": "Domrey Park",
+   "lat": 11.630471,
+   "lng": 104.884757,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Domrey Park 598",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-0f5b09d032",
+   "name": "Le Botum",
+   "lat": 11.560343,
+   "lng": 104.93125,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1200
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "address": "Le botum hotel",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "hotel"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-0eced9101c",
+   "name": "City Tower",
+   "lat": 11.561508,
+   "lng": 104.901266,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 30
+    },
+    {
+     "type": "CCS2",
+     "kw": 30
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "City Tower",
+   "hours": "6:00 AM - 10:00 PM"
+  },
+  {
+   "id": "mm-c9a119cd4f",
+   "name": "Cam Cafe",
+   "lat": 11.583352,
+   "lng": 104.887333,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 30
+    },
+    {
+     "type": "CCS2",
+     "kw": 30
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "Charge+",
+   "address": "ភូមិទំនប់, សង្កាត់ភ្នំពេញថ្មី, ខណ្ឌសែនសុខ, រាជធានីភ្នំពេញ",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-35b38c06a8",
+   "name": "Munen Coffee",
+   "lat": 11.574177,
+   "lng": 104.858577,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "CAM EV",
+   "address": "Munen Coffee & SR Quick",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-531eaa208e",
+   "name": "Dong Feng",
+   "lat": 11.562512,
+   "lng": 104.876103,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "ស្ថានីយ៍សាក DONG FENG មុខវត្តទឹកថ្លា",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-81aa46d925",
+   "name": "AIQAR",
+   "lat": 11.590271,
+   "lng": 104.881795,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "AIQAR (iCAR)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-f958eb1f66",
+   "name": "Nadi Office",
+   "lat": 11.645702,
+   "lng": 104.916443,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "ព្រែកលៀប 6A - Nadi Office",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-7a55285eb2",
+   "name": "BKK",
+   "lat": 11.551899,
+   "lng": 104.923499,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "បឹងកេងកង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-8069aa6882",
+   "name": "St 2004",
+   "lat": 11.549123,
+   "lng": 104.861543,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "address": "St2004 ក្បែរវត្តអង្គតាមិញ ភ្នំពេញ",
+   "hours": "24/7",
+   "note": "ត្រូវប្រើ App CAM EV (099375550 , 095375550 , 090375550 )"
+  },
+  {
+   "id": "mm-4276fcb24b",
+   "name": "LMG Car Care",
+   "lat": 11.534984,
+   "lng": 104.974717,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "CAM EV",
+   "address": "ស្ថានីយសាករថយន្ត LMG Car Care វាលស្បូវ ច្បារអំពៅ ភ្នំពេញ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-521bcb2769",
+   "name": "Ly Penglim Car 178",
+   "lat": 11.595543,
+   "lng": 104.900624,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180
+    }
+   ],
+   "src": "mymaps",
+   "address": "Ly Penglim Car 178",
+   "hours": "7:30AM - 6:00 PM",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាក  (Staff)"
+  },
+  {
+   "id": "mm-1a98ce90c0",
+   "name": "Bayon 6A Market",
+   "lat": 11.603503,
+   "lng": 104.929742,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "address": "ផ្សារបាយ័នជ្រោយចង្វារ 6A",
+   "hours": "6:30 - 21:00",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "QR Code Scan, មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Engery"
+  },
+  {
+   "id": "mm-a8c7d6f52c",
+   "name": "PTT (PPT) DC",
+   "lat": 11.574481,
+   "lng": 104.885656,
+   "connectors": [
+    {
+     "type": "GBT_DC"
+    },
+    {
+     "type": "CCS2"
+    }
+   ],
+   "src": "mymaps",
+   "address": "PTT ភ្នំពេញថ្មី",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-bddede1e25",
+   "name": "PTT (Prek Pnov) DC",
+   "lat": 11.679766,
+   "lng": 104.850089,
+   "connectors": [
+    {
+     "type": "GBT_DC"
+    },
+    {
+     "type": "CCS2"
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ptt-station",
+   "address": "PTT ព្រែកព្នៅ",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-a5c6eadee7",
+   "name": "PTT (Chbar Ampov) DC",
+   "lat": 11.532831,
+   "lng": 104.954037,
+   "connectors": [
+    {
+     "type": "GBT_DC"
+    },
+    {
+     "type": "CCS2"
+    }
+   ],
+   "src": "mymaps",
+   "address": "PTT ច្បារអំពៅ",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-fb98e821d5",
+   "name": "PTT (Neak Kawan)",
+   "lat": 11.570464,
+   "lng": 104.90502,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "address": "PTT នាគវន្ត័",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-1ba927f0b5",
+   "name": "Boeung Snor",
+   "lat": 11.535822,
+   "lng": 104.957339,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Food Village បឹងស្នោរ",
+   "hours": "24/7",
+   "facilities": [
+    "restaurant",
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-6c9bca7d8b",
+   "name": "SK99",
+   "lat": 11.577517,
+   "lng": 104.903435,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "app": "Khmer EV",
+   "address": "ឃ្លាំងលក់រយន្ត SK99 បឹងកក់",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-e5d0b3ff5f",
+   "name": "Lim Long (Toul Sangke)",
+   "lat": 11.595009,
+   "lng": 104.91314,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "address": "LIM LONG FAST CHARGE 168 ទួលសង្កែ ឫស្សីកែវ រាជធានីភ្នំពេញ",
+   "hours": "5:30AM - 9:00 PM",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាក  (Staff)"
+  },
+  {
+   "id": "mm-8853b68155",
+   "name": "BDC",
+   "lat": 11.596141,
+   "lng": 104.925518,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "អគារ BDC ខណ្ឌជ្រោយចង្វារ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-68a1e04fbd",
+   "name": "Summer Furniture 2004",
+   "lat": 11.552223,
+   "lng": 104.877725,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "Summer Furniture 2004 street",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-6cfa5c8bef",
+   "name": "World EV",
+   "lat": 11.550746,
+   "lng": 104.906793,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 30
+    }
+   ],
+   "src": "mymaps",
+   "address": "World EV car showroom ទល់មុខសាលាបឋមសិក្សាទួលស្វាយព្រៃ ផ្លូវ199 កែង 374 ភ្នំពេញ",
+   "hours": "8:00AM - 6:00 PM",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាក  (Staff)"
+  },
+  {
+   "id": "mm-57a77af339",
+   "name": "ឃ្លាំង Wownow",
+   "lat": 11.525265,
+   "lng": 104.89135,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 200
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "ឃ្លាំង WOWNOW ផ្លូវ 371 ជិតស្ពានចំការដូង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-680d09fdd3",
+   "name": "No.1 EV Garage",
+   "lat": 11.55798,
+   "lng": 104.901344,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "No1 EV Garage",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-601d1c461f",
+   "name": "Barista Coffee",
+   "lat": 11.545524,
+   "lng": 104.916253,
+   "connectors": [
+    {
+     "type": "DC",
+     "kw": 30
+    }
+   ],
+   "src": "mymaps",
+   "address": "Barista Coffee ទួលទំពូង",
+   "facilities": [
+    "staff",
+    "coffee"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-438097d9cd",
+   "name": "Asia Supermarket (PP)",
+   "lat": 11.53264,
+   "lng": 104.952597,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "app": "GoEV",
+   "address": "Asia Supermarket Boeung Snor",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-128b5a9e15",
+   "name": "Car4You",
+   "lat": 11.60949,
+   "lng": 104.87014,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "មុខក្រុមហ៊ុនលក់រយន្ត CAR4YOU លើផ្លូវហាណូយ ទល់មុខវត្តឃ្មួញ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-aee59aadf3",
+   "name": "7-11 Global House",
+   "lat": 11.598363,
+   "lng": 104.877713,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Seven Eleven (មុខ Global house )",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "mart"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក និង ប្រើ Prepaid card"
+  },
+  {
+   "id": "mm-cdf4244c73",
+   "name": "60M Mall",
+   "lat": 11.509482,
+   "lng": 104.926759,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "60M Mall",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-b36996aa5a",
+   "name": "VK Coffee CCV",
+   "lat": 11.590588,
+   "lng": 104.928592,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "app": "Khmer EV",
+   "address": "Black Canyon ជ្រោយចង្វារ",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-a80e90b9d0",
+   "name": "Kob Srov",
+   "lat": 11.57918,
+   "lng": 104.80268,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "កប់ស្រូវ ទល់មុខក្លឹប វិសាលខា",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Energy"
+  },
+  {
+   "id": "mm-be77caceb7",
+   "name": "One Tree Station",
+   "lat": 11.591965,
+   "lng": 104.882011,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "count": 6
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "One Tree Station, Near Makro Sensok",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-9ed4b474e1",
+   "name": "C Mart 598",
+   "lat": 11.579924,
+   "lng": 104.887418,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "C Mart 598",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-a9f70fb08e",
+   "name": "WOWNOW HQ",
+   "lat": 11.551175,
+   "lng": 104.922288,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "WOWNOW Head Office St.310",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-0d4e3e7035",
+   "name": "TL Sky Mall",
+   "lat": 11.528042,
+   "lng": 104.825091,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "TL Sky Mall (បុរីធូលន ចោមចៅ)",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-ea1e66245d",
+   "name": "Aeon1",
+   "lat": 11.549033,
+   "lng": 104.936131,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "ក្រោយ Aeon1 (ភោជនីយដ្ឋាន មីងម៉េង)",
+   "hours": "24/7",
+   "facilities": [
+    "restaurant"
+   ]
+  },
+  {
+   "id": "mm-7e6bedbec7",
+   "name": "Ministry of Defense",
+   "lat": 11.570805,
+   "lng": 104.909471,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "ទល់មុខក្រសួងការពារជាតិ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-18d0143088",
+   "name": "60M",
+   "lat": 11.521224,
+   "lng": 104.927341,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "ហាងចិន(ផ្លូវ 60M)",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក និង QR Scan Pay"
+  },
+  {
+   "id": "mm-3c036a3057",
+   "name": "Total Tuek Tla",
+   "lat": 11.562873,
+   "lng": 104.861666,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Total ពោធិចិនតុង",
+   "hours": "24/7",
+   "facilities": [
+    "qr"
+   ],
+   "note": "QR Scan Pay (ABA & ACLEDA KHQR)"
+  },
+  {
+   "id": "mm-4409c94446",
+   "name": "YOUPIN Mall",
+   "lat": 11.545056,
+   "lng": 104.912063,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "ផ្សារ YOUPIN Mall ទូតចិន",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-c676e20009",
+   "name": "One More Restaurant",
+   "lat": 11.581946,
+   "lng": 104.907229,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "One More Restaurant បឹងកក់",
+   "hours": "24/7",
+   "facilities": [
+    "restaurant"
+   ]
+  },
+  {
+   "id": "mm-4fd985e2a0",
+   "name": "Big C Mart",
+   "lat": 11.495776,
+   "lng": 104.942612,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 30
+    },
+    {
+     "type": "CCS2",
+     "kw": 30
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Big C Mart",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-371f4d50e0",
+   "name": "Sing-Specialist Medical Centre",
+   "lat": 11.565394,
+   "lng": 104.919814,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 30
+    },
+    {
+     "type": "CCS2",
+     "kw": 30
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "មន្ទីរសម្រាកព្យាបាល ស៊ីង-ស្ពេសឹលីស (Sing-Specialists Medical Centre)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-5df331d3df",
+   "name": "BYD Citymall",
+   "lat": 11.558287,
+   "lng": 104.908823,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "BYD Showroom",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-10ab026fe8",
+   "name": "DOT",
+   "lat": 11.574795,
+   "lng": 104.885822,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "DOT Sensok",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក និង QR Scan Pay"
+  },
+  {
+   "id": "mm-2298920977",
+   "name": "Komsan Square Mall",
+   "lat": 11.576018,
+   "lng": 104.853764,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "Komsan Square Mall ( Chouk Meas)",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-f9a5d67a1e",
+   "name": "Sokimex Odem",
+   "lat": 11.530576,
+   "lng": 104.80725,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "Sokimex Oderm (NR4)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-412d6d82e4",
+   "name": "Eden Garden",
+   "lat": 11.577818,
+   "lng": 104.909728,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1600
+    }
+   ],
+   "src": "mymaps",
+   "operator": "zo-motor",
+   "app": "ZO Energy",
+   "address": "បឹងកក់ទល់មុខ Eden Garden",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-8e2fc3ff08",
+   "name": "Psa Heng Ly",
+   "lat": 11.55849,
+   "lng": 104.8876,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "ជិតផ្សារហេងលី",
+   "hours": "24/7",
+   "facilities": [
+    "qr"
+   ],
+   "note": "QR Scan Pay (ABA & ACLEDA KHQR)"
+  },
+  {
+   "id": "mm-196d34d66d",
+   "name": "C Mart Sen Sok",
+   "lat": 11.59308,
+   "lng": 104.850643,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "C Mart ក្រាំងធ្នង់សែនសុខ",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-9ba4d8606c",
+   "name": "Easy Home Grand",
+   "lat": 11.625121,
+   "lng": 104.856922,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "count": 4,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "មុខផ្សារ EASY HOME ជាប់ Chipmong Grand Phnom Penh",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-5b2b983f0a",
+   "name": "Angkor Mart 598",
+   "lat": 11.618267,
+   "lng": 104.892593,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Angkor Market (st 598)",
+   "hours": "24/7",
+   "facilities": [
+    "qr",
+    "mart"
+   ],
+   "note": "QR Scan Pay (ABA & ACLEDA KHQR)"
+  },
+  {
+   "id": "mm-e5d2474bda",
+   "name": "103 Tower",
+   "lat": 11.482825,
+   "lng": 104.896165,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev168",
+   "address": "ភ្នំពេញ ផ្លូវ217 ចំកាដូង ក្រោយអាគារ103 Tower",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-c13f0f1f24",
+   "name": "EDC Krang Thnung",
+   "lat": 11.586978,
+   "lng": 104.840701,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-168",
+   "app": "EV168",
+   "address": "ភ្នំពេញ (កែងអគ្គីសនី កម្ពុជាក្រាំងធ្នង់)",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក"
+  },
+  {
+   "id": "mm-25621340ce",
+   "name": "Total OCIC",
+   "lat": 11.61839,
+   "lng": 104.922716,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "TotalEnergies OCIC",
+   "hours": "24/7",
+   "facilities": [
+    "qr"
+   ],
+   "note": "QR Scan Pay (ABA & ACLEDA KHQR)"
+  },
+  {
+   "id": "mm-c16172cdb8",
+   "name": "Odem",
+   "lat": 11.531636,
+   "lng": 104.811346,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 600,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 600,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "go-green-energy-co-ltd",
+   "app": "Go Green Energy",
+   "address": "Near Borey Oudem 2 NR4",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-044547d1fb",
+   "name": "Beach Spa",
+   "lat": 11.520034,
+   "lng": 104.882195,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ផ្លូវទួលពង្រ (ចំការដូង) មុខ The Beach Spa",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-69912ca19b",
+   "name": "Total Energies 598",
+   "lat": 11.627862,
+   "lng": 104.886654,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "Total Energies 598 ( ផ្លូវជាសុផារ៉ា)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-be14d32fe6",
+   "name": "Chom Chao",
+   "lat": 11.531892,
+   "lng": 104.827568,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "count": 2,
+     "price_khr": 900
+    }
+   ],
+   "src": "mymaps",
+   "operator": "plug-go",
+   "app": "Loopa",
+   "address": "ផ្លូវជាតិលេខ 3 ហួសចោមចៅបន្តិច",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-d090fd3360",
+   "name": "MEV Station",
+   "lat": 11.531199,
+   "lng": 104.897653,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "count": 5,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "mev-station",
+   "app": "OneGo",
+   "address": "ម្ដុំស្ទឹងមានជ័យ ជិតស្ពានដែកចំការដូង ចុះពីផ្លូវទំនប់ 371 ចំងាយ 800m តាមខ្លោងទ្វារវត្គពោធិញ្ញាណ",
+   "hours": "24/7",
+   "facilities": [
+    "toilet",
+    "wifi",
+    "lounge"
+   ],
+   "note": "មានបន្ទប់ទឹក + កន្លែងអង្គុយរង់ចាំ + Free WiFi"
+  },
+  {
+   "id": "mm-92ca207329",
+   "name": "Koh Norea",
+   "lat": 11.548873,
+   "lng": 104.951303,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cartev-charging",
+   "address": "កោះនរាហ៏",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ & QR Scan"
+  },
+  {
+   "id": "mm-6054f96149",
+   "name": "Wat Pneat",
+   "lat": 11.598676,
+   "lng": 104.763244,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1100
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1100
+    }
+   ],
+   "src": "mymaps",
+   "operator": "k-ev-24-7",
+   "app": "UnifyCharge",
+   "address": "(ផ្លូវវត្តភ្នៀត) ភូមិចុងថ្នល់ សង្កាត់ពន្សាំង ខណ្ឌព្រែកព្នៅ រាជធានីភ្នំពេញ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-80b494edc3",
+   "name": "St. 371",
+   "lat": 11.524023,
+   "lng": 104.895655,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "count": 2,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "616-ev-station",
+   "app": "UnifyCharge",
+   "address": "ផ្លូវ371 សង្កាត់ស្ទឹងមានជ័យ2 ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-6c26595d21",
+   "name": "Kirirom Entrance",
+   "lat": 11.276682,
+   "lng": 104.211116,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "ត្រែងត្រយឹងក្បែរផ្លូវឡើងភ្នំគិរីរម្យ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-ef048ad817",
+   "name": "Lim Long (KSP)",
+   "lat": 11.47592,
+   "lng": 104.586341,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1700
+    }
+   ],
+   "src": "mymaps",
+   "operator": "lim-long",
+   "address": "Lim Long Gastation (ទល់មុខច្រកចេញល្បឿនលឿនកំពង់ស្ពឺកើត)",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-7c2e3ca92d",
+   "name": "Good Time Relax Resort",
+   "lat": 10.647324,
+   "lng": 104.179757,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "energize-cambodia",
+   "address": "Good Time Relax Resort (កំពត)",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "hotel"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-41855fe396",
+   "name": "Sokimex Gas Station",
+   "lat": 10.6103,
+   "lng": 104.180758,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-station",
+   "app": "EV Energy",
+   "address": "Sokimex Krong Kompot",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-81f1986277",
+   "name": "Kampot City",
+   "lat": 10.595093,
+   "lng": 104.176966,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160
+    },
+    {
+     "type": "CCS2",
+     "kw": 160
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ភូមិ តាអង្គ សង្កាត់ ត្រើយកោះ ក្រុងកំពត ខេត្តកំពត",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-90aabf2f67",
+   "name": "Ochheuteal Beach",
+   "lat": 10.602586,
+   "lng": 103.528216,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 200,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 200,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "KPS ( ឆ្នេរអូឈេីទាល)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-05dc08bb6d",
+   "name": "Riviera Hotel",
+   "lat": 10.477125,
+   "lng": 104.303815,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "facilities": [
+    "hotel"
+   ],
+   "note": "Riviera Hotel and Resort · GBT · EV Energy App · 24/7"
+  },
+  {
+   "id": "mm-7bedd72645",
+   "name": "Fairy Hotel",
+   "lat": 10.62007,
+   "lng": 103.537525,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "count": 4
+    }
+   ],
+   "src": "mymaps",
+   "address": "FAIRY Hotel & Restaurant",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "restaurant",
+    "hotel"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-0d92cf11e9",
+   "name": "Novotel DC",
+   "lat": 10.610779,
+   "lng": 103.503178,
+   "connectors": [
+    {
+     "type": "CCS2"
+    }
+   ],
+   "src": "mymaps",
+   "address": "Novotel (Fast Charge)",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាក  (Staff) · 15$/1hr"
+  },
+  {
+   "id": "mm-8b7ffd2625",
+   "name": "PTT (KL)",
+   "lat": 10.634495,
+   "lng": 103.544468,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1600
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1600
+    }
+   ],
+   "src": "mymaps",
+   "address": "PTT ឃ្លាំងលើ (Fast Charge)",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-3250cb65d7",
+   "name": "Food Supermarket",
+   "lat": 10.621917,
+   "lng": 103.538893,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-station",
+   "app": "EV Energy",
+   "address": "Food Supermarket",
+   "hours": "24/7",
+   "facilities": [
+    "mart",
+    "restaurant"
+   ]
+  },
+  {
+   "id": "mm-3b0973ace7",
+   "name": "Riva Hotel",
+   "lat": 10.611784,
+   "lng": 103.503675,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-station",
+   "app": "EV Energy",
+   "address": "សណ្ឋាគារ Riva hotel (Fast Charge)",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-4c4c532e13",
+   "name": "SovanDollar",
+   "lat": 10.639141,
+   "lng": 103.515649,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "app": "CAM EV",
+   "address": "មុខផ្ទះសំណាក់ កូឡាសុវណ្ណដុល្លា",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-58d77d1c35",
+   "name": "Rest Area2 PP-SHV",
+   "lat": 11.317418,
+   "lng": 104.310378,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "count": 2,
+     "price_khr": 1600
+    }
+   ],
+   "src": "mymaps",
+   "app": "ZO Energy",
+   "address": "កន្លែងសំរាកទី 2 - កំពង់ស្ពឺលិច",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-63935524d9",
+   "name": "Kampot Outskirt",
+   "lat": 10.630256,
+   "lng": 104.183674,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 800
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 800
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ផ្លូវជាតិលេខ3 ជិតស្ពានព្រះពន្លា ក្រុងកំពត ខេត្តកំពត",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-fd9091426e",
+   "name": "MeMe Guest House",
+   "lat": 10.621842,
+   "lng": 103.54023,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "ផ្ទះសំណាក់ MeMe 02 កំពង់សោម",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-601ff938f1",
+   "name": "Rest Area2 SHV-PP",
+   "lat": 11.109488,
+   "lng": 103.967422,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "app": "TotalEnergies",
+   "address": "កន្លែងសំរាក់ទី2 កំពង់សិលា",
+   "hours": "24/7",
+   "price_note": "1500/1នាទី"
+  },
+  {
+   "id": "mm-b599bc4bd6",
+   "name": "Tela Sre Ambil",
+   "lat": 11.046193,
+   "lng": 103.796208,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្ថានីយ Tela ផ្លូវបំបែកស្រែអំបិល ខេត្តកុះកុង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-475a043350",
+   "name": "Koh Sdach",
+   "lat": 10.938974,
+   "lng": 103.098003,
+   "connectors": [
+    {
+     "type": "AC",
+     "kw": 3
+    }
+   ],
+   "src": "mymaps",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំជួយរៀបចំ · មានតែ 1 ទូរ ឌុយ 2 ទេ"
+  },
+  {
+   "id": "mm-91196cf68d",
+   "name": "Klang Ler",
+   "lat": 10.63456,
+   "lng": 103.543261,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-station",
+   "app": "EV Energy",
+   "address": "EV Energy Klang Ler",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-2709b48377",
+   "name": "ASIAN Koh Kong City",
+   "lat": 11.613608,
+   "lng": 102.979194,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "ASIAN Koh Kong",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-9593e2caee",
+   "name": "Harmony Guest House",
+   "lat": 10.633162,
+   "lng": 104.184337,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Kampot city (Road 3)",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "hotel"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Engery"
+  },
+  {
+   "id": "mm-9ddd712c66",
+   "name": "SHV City",
+   "lat": 10.624184,
+   "lng": 103.52235,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "app": "CAM EV",
+   "address": "ផ្លូវឯករាជ្យ ក្បែរស្តុបផ្សារពាណិជ្ជកម្ម",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-22c9da7743",
+   "name": "Rest Area3 SHV-PP",
+   "lat": 11.316409,
+   "lng": 104.311811,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "count": 2,
+     "price_khr": 1600
+    }
+   ],
+   "src": "mymaps",
+   "address": "កន្លែងសំរាកទី 3 - កំពង់ស្ពឺលិច",
+   "hours": "24/7",
+   "note": "Zo Energy"
+  },
+  {
+   "id": "mm-d29b18cb7f",
+   "name": "Klang Ler",
+   "lat": 10.629146,
+   "lng": 103.551692,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "count": 2,
+     "price_khr": 1600
+    }
+   ],
+   "src": "mymaps",
+   "app": "ZO Energy",
+   "address": "ឃ្លាំងលើ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-a67be38e58",
+   "name": "Sokimex Kampot",
+   "lat": 10.630092,
+   "lng": 104.183927,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev168",
+   "address": "Sokimex Kampot (Road 3)",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក"
+  },
+  {
+   "id": "mm-c11bce5a9c",
+   "name": "FURI Plaza",
+   "lat": 10.629841,
+   "lng": 103.505775,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "app": "CAM EV",
+   "address": "Diamond Plaza (Furi",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-f21ddd2742",
+   "name": "Kep Coffee",
+   "lat": 10.480239,
+   "lng": 104.314564,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Kep Coffee",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "qr",
+    "coffee"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក និង QR Scan Pay"
+  },
+  {
+   "id": "mm-657fc044cb",
+   "name": "CE Kep",
+   "lat": 10.551174,
+   "lng": 104.289841,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev168",
+   "app": "EV168",
+   "address": "Ce រង្វង់មូលសេះ ស ក្រុងកែប",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-2039637ce9",
+   "name": "De Zee Hotel",
+   "lat": 11.605467,
+   "lng": 102.988124,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cam-ev",
+   "app": "CAM EV",
+   "address": "មុខសណ្ឋាគារ សមុទ្រ De Zee Hotel",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-db94cac991",
+   "name": "Sokimex",
+   "lat": 10.641854,
+   "lng": 103.518066,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 360,
+     "count": 3,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 360,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-168",
+   "app": "EV168",
+   "address": "SOKIMEX (កែងរ៉ា ក្រុងព្រះសីហនុ)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-208c0619b9",
+   "name": "Tela Phnom Sor",
+   "lat": 10.659259,
+   "lng": 104.201847,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "Khmer EV",
+   "address": "ផ្លូវជាតិលេខ3 តេលាភ្នំសរ ខេត្តកំពត",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-7115153ef2",
+   "name": "CG-Klang Ler",
+   "lat": 10.634585,
+   "lng": 103.543757,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "app": "QR Scan Pay",
+   "address": "KPS",
+   "hours": "24/7",
+   "facilities": [
+    "qr"
+   ]
+  },
+  {
+   "id": "mm-41f630aa81",
+   "name": "Stueng Chhay",
+   "lat": 10.907994,
+   "lng": 103.811964,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "OneGo",
+   "address": "ចំការថូងប្រេង 100ខ្នង ស្ទឹងឆាយ ខេត្តព្រះសីហនុ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-12255fa8d4",
+   "name": "Tela Ses Sor",
+   "lat": 10.552232,
+   "lng": 104.289111,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្ថានីយ Tela សេះស ក្បែររង្វង់មូលសេះស ខេត្តកែប",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-faa5b181da",
+   "name": "Bokor View Resident",
+   "lat": 10.568204,
+   "lng": 104.028881,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "EV Bokor View Resident",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-622327ef60",
+   "name": "Near Bokor Entrance",
+   "lat": 10.572441,
+   "lng": 104.141554,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "Tela បឹងទូកក្បែរផ្លូវឡើងបូកគោ ខេត្តកំពត",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-4267145c19",
+   "name": "Chay Kim",
+   "lat": 11.184636,
+   "lng": 103.467399,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1200
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "chaykim-ev-station",
+   "app": "UnifyCharge",
+   "address": "ផ្លូវជាតិលេខ48 គីឡូម៉ែត្រ51 ភូមិជីមាល ឃុំអណ្តូងទឹក ស្រុកបូទុមសាគរ ខេត្តកោះកុង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-65817cb8f2",
+   "name": "We Want Coffee DC (80-120Kw)&",
+   "lat": 12.569775,
+   "lng": 105.048481,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 22
+    },
+    {
+     "type": "TYPE2",
+     "kw": 22
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "We want Coffee សន្ទុក",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "coffee"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Engery"
+  },
+  {
+   "id": "mm-601f408a7f",
+   "name": "KPT City",
+   "lat": 12.731421,
+   "lng": 104.894031,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ភូមិ អាចារ្យលាក់ សង្កាត់ អាចារ្យលាក់ ក្រុងស្ទឹងសែន ខេត្តកំពង់ធំ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-00a64e1ced",
+   "name": "Total Energies",
+   "lat": 12.681456,
+   "lng": 104.901043,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "totalenergies",
+   "app": "TotalEnergies",
+   "address": "Total Energies កំពង់ធំ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-6fdc44f31e",
+   "name": "Tela Kaom Meas",
+   "lat": 12.546261,
+   "lng": 105.084481,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "app": "CAM EV",
+   "address": "ស្ថានីយតេលា និងកាហ្វេ ក្អមមាស",
+   "hours": "6:00 - 20:00",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-e3549dbb7c",
+   "name": "Prince Angkor Hotel",
+   "lat": 13.360611,
+   "lng": 103.855953,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "GoEV",
+   "address": "សណ្ឋាគារ ព្រីនអង្គរ - Prince Angkor Hotel",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-2618cc3aee",
+   "name": "PTT (SR)",
+   "lat": 13.369322,
+   "lng": 103.846713,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "address": "PTT អប្សារា",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-d0fda77ff7",
+   "name": "Huy Leng Market",
+   "lat": 13.359976,
+   "lng": 103.849564,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "មុខផ្សារ ហ៊ុយឡេង សៀមរាប",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-8e8a430052",
+   "name": "AIQR",
+   "lat": 13.360104,
+   "lng": 103.877965,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "AIQR Showroom ជិតផ្សារលើ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-00851e5387",
+   "name": "Asia Mart",
+   "lat": 13.357581,
+   "lng": 103.853949,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "GoEV",
+   "address": "Asia Mart",
+   "hours": "24/7",
+   "facilities": [
+    "mart"
+   ]
+  },
+  {
+   "id": "mm-fb916aafa3",
+   "name": "Sokimex Noir Coffee",
+   "lat": 13.361128,
+   "lng": 103.860827,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "ហ្គារាសសាំង Sokimex Noir Coffee ជិតស្ពានព្រះរាជដំណាក់",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "coffee"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក"
+  },
+  {
+   "id": "mm-1ae7926380",
+   "name": "J7 Hotel",
+   "lat": 13.362176,
+   "lng": 103.857645,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "GoEV",
+   "address": "សណ្ឋាគារ J7 Angkor Hotel",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-40893bfc2e",
+   "name": "Amara Home",
+   "lat": 13.358691,
+   "lng": 103.852382,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Amara home ជិត Asia Plaza Restaurant",
+   "hours": "8:00 - 22:00",
+   "facilities": [
+    "staff",
+    "qr",
+    "restaurant"
+   ],
+   "note": "QR Code Scan, មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Energy"
+  },
+  {
+   "id": "mm-9e778473d2",
+   "name": "Front FM104.5",
+   "lat": 13.795128,
+   "lng": 104.990815,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "មុខស្ថានីយវិទ្យុ FM104.5MHz , ភូមិគោកបេង សង្កាត់ កំពង់ប្រណាក ក្រុងព្រះវិហារ ខេត្តព្រះវិហារ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-25bf784984",
+   "name": "Sokimex (Kampong Thom)",
+   "lat": 12.753309,
+   "lng": 104.905985,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "Sokimex Kompong Svay (Kompong Thom) ផ្លូវបំបែកទៅព្រះវិហារ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-750d0a4e3c",
+   "name": "Kampong Svay",
+   "lat": 12.755423,
+   "lng": 104.904048,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Kompong Svay (Kompong Thom) ផ្លូវបំបែកទៅព្រះវិហារ",
+   "hours": "24/7 for QR Scan",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "QR Code Scan មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Energy"
+  },
+  {
+   "id": "mm-2c7c2a26b4",
+   "name": "Platinum KTV",
+   "lat": 13.367917,
+   "lng": 103.853212,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "GoEV",
+   "address": "Platinum KTV",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-e7e2c2b56d",
+   "name": "EVGO Express",
+   "lat": 13.358278,
+   "lng": 103.88684,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1300
+    }
+   ],
+   "src": "mymaps",
+   "operator": "evgo-express-cambodia-co-ltd",
+   "address": "ផ្លូវជាតិលេខ 6A ភូមិចុងកៅស៊ូ ខេត្តសៀមរាប",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ"
+  },
+  {
+   "id": "mm-6aa2679df9",
+   "name": "Angkor Market",
+   "lat": 13.366756,
+   "lng": 103.849044,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40
+    },
+    {
+     "type": "CCS2",
+     "kw": 40
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Angkor Market",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-51e5571e3f",
+   "name": "Savimex",
+   "lat": 13.354323,
+   "lng": 103.917076,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "SAVIMEX SVAYTHOM (ក្រុងសៀមរាប )",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ"
+  },
+  {
+   "id": "mm-ae02aa89ba",
+   "name": "Angkor National Museum",
+   "lat": 13.36776,
+   "lng": 103.858907,
+   "connectors": [
+    {
+     "type": "GBT_DC"
+    },
+    {
+     "type": "CCS2"
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "Angkor National Museum (ក្រុងសៀមរាប )",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ"
+  },
+  {
+   "id": "mm-760f0b35cb",
+   "name": "Kravan Restaurant",
+   "lat": 12.622526,
+   "lng": 104.995326,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "price_khr": 1300
+    }
+   ],
+   "src": "mymaps",
+   "operator": "evgo-express-cambodia-co-ltd",
+   "address": "ផ្លូវជាតិលេខ 6A សន្ទុក",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "restaurant"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ"
+  },
+  {
+   "id": "mm-db5a8105a7",
+   "name": "CE Energy SR",
+   "lat": 13.37573,
+   "lng": 103.834847,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "count": 3,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-168",
+   "app": "EV168",
+   "address": "ការ៉ាស់សាំងCEជាប់ភូមិវប្បធម៌",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-2fb7a315bc",
+   "name": "CE Energy KPT",
+   "lat": 12.737296,
+   "lng": 104.898374,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "count": 3,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev168",
+   "app": "EV168",
+   "address": "ការ៉ាស់សាំងCE អាចារ្យលាក់(កំពង់ធំ)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-d7acc30303",
+   "name": "Tela Stong",
+   "lat": 12.927598,
+   "lng": 104.582066,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1200
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្ថានីយតេលា តារាពិដោ ស្រុកស្ទោង ផ្លូវលេខ 6 កំពង់ធំ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-fc1f28c6e7",
+   "name": "Total Energies SR",
+   "lat": 13.351323,
+   "lng": 103.933213,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 200,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 200,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "TotalEnergies SR",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-42e3014b4f",
+   "name": "Tela SR Ring Road",
+   "lat": 13.344511,
+   "lng": 103.839279,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1100
+    }
+   ],
+   "src": "mymaps",
+   "operator": "op",
+   "app": "OneGo",
+   "address": "ចំរើន ដេប៉ូតេលា ផ្លូវក្រវ៉ាត់ក្រុង សង្កាត់ស្វាយដង្គំ ក្រុងសៀមរាប ខេត្តសៀមរាប",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-12574b703c",
+   "name": "Ta Kna",
+   "lat": 13.000781,
+   "lng": 104.563342,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "chaykim-ev-station",
+   "app": "UnifyCharge",
+   "address": "ហ្គារាសាំង Savimex",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-7cfdb79dd7",
+   "name": "Preah Vihea City,",
+   "lat": 13.807144,
+   "lng": 104.979422,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "UnifyCharge",
+   "address": "ទល់មុខបេនឡាន ភូមិអណ្តូងពោធ៌ ខេត្តព្រះវិហារ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-180caa0906",
+   "name": "Lim Long (Prey Khmer) DC 1600Kw)",
+   "lat": 12.175693,
+   "lng": 104.662267,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "Lim Long ព្រៃខ្មែរ កំពង់ឆ្នាំង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-62e9d0ea3a",
+   "name": "Zara Coffee (Pursat)",
+   "lat": 12.533405,
+   "lng": 103.917955,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-station",
+   "app": "EV Energy",
+   "address": "Zara Coffee at Pusat",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-c0753774d0",
+   "name": "Pursat",
+   "lat": 12.535759,
+   "lng": 103.928083,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ក្បែរមណ្ឌលសុខភាព ព្រៃញី ខេត្តពោធិសាត់",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-d3153d52f5",
+   "name": "Paris Guesthouse",
+   "lat": 12.532564,
+   "lng": 104.209153,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "ផ្ទះសំណាក់ប៉ារីស ផ្លូវជាតិលេខ 5 មុខផ្សារក្រគរ",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "qr",
+    "hotel"
+   ],
+   "note": "QR Code Scan, មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Engery"
+  },
+  {
+   "id": "mm-51369c980c",
+   "name": "A1 Boutique",
+   "lat": 12.281774,
+   "lng": 103.033547,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "A1 Boutique ស្រុកវែលវែង ខេត្តពោធិសាត់",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-15a83988be",
+   "name": "Zara Coffee",
+   "lat": 13.09255,
+   "lng": 103.208415,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-station",
+   "app": "EV Energy",
+   "address": "Zara Coffee",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-7de3cf152f",
+   "name": "BMC City",
+   "lat": 13.592807,
+   "lng": 102.967073,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "ក្រុងសិរិសោភ័ណ បន្ទាយមានជ័យ",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ + App CAM EV (099375550, 095375550)"
+  },
+  {
+   "id": "mm-bf7c36e998",
+   "name": "Coffee 95",
+   "lat": 12.859447,
+   "lng": 102.609089,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ស្ថានីយសាករថយន្ត Coffee 95 ក្រុងប៉ៃលិន",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-42910b4412",
+   "name": "Poi Pet Resort",
+   "lat": 13.645404,
+   "lng": 102.56969,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-station",
+   "app": "EV Energy",
+   "address": "Poi Pet Resort",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-b34a7e061e",
+   "name": "Total Energy (BMC)",
+   "lat": 13.590691,
+   "lng": 102.972408,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Total Energies បន្ទាយមានជ័យ",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Engery"
+  },
+  {
+   "id": "mm-1f2914b53b",
+   "name": "BTB City",
+   "lat": 13.103388,
+   "lng": 103.209377,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ភូមិ រំចេក៣ សង្កាត់ រតនះ ក្រុងបាត់ដំបង ខេត្តបាត់ដំបង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-1816ee3933",
+   "name": "Phnom Touch",
+   "lat": 13.402337,
+   "lng": 103.018438,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "Khmer EV",
+   "address": "ភ្នំតូច មង្គលបុរី",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-8a5a7bc6b3",
+   "name": "Aion BTB",
+   "lat": 13.095221,
+   "lng": 103.208056,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "app": "GoEV",
+   "address": "Showroom Aion Battambang",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-4c740311d0",
+   "name": "Je Mom Restaurant",
+   "lat": 13.088807,
+   "lng": 103.213358,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "ចែមុំ",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "restaurant"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក"
+  },
+  {
+   "id": "mm-06974ceb89",
+   "name": "Total Energies Krakor",
+   "lat": 12.528947,
+   "lng": 104.189102,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180
+    },
+    {
+     "type": "CCS2",
+     "kw": 180
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ផ្លូវជាតិលេខ5 ក្រោយ Total ស្រុកក្រគរ ខេត្តពោធិសាត់",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-a75e11a602",
+   "name": "BTB Independence",
+   "lat": 13.094259,
+   "lng": 103.198416,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "ក្រុងបាត់ដំបង ទល់មុខវិមានឯករាជ្យ",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Enerងy"
+  },
+  {
+   "id": "mm-17c1969385",
+   "name": "The Sky EV",
+   "lat": 12.537631,
+   "lng": 103.910492,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "the-sky-ev",
+   "app": "OneGo",
+   "address": "The Sky EV",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "QR Code Scan & ប្រេី Prepaid Card និងមានបុគ្គិលិក"
+  },
+  {
+   "id": "mm-ba41ca2437",
+   "name": "MisterBrew Coffee",
+   "lat": 13.589279,
+   "lng": 102.968742,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "MisterBrew Coffee ក្រុងសិរីសោភ័ណ ខេត្តបន្ទាយមានជ័យ",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-2e7fb9e379",
+   "name": "BTB Ring Road",
+   "lat": 13.054909,
+   "lng": 103.266477,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev168-2",
+   "app": "EV168",
+   "address": "ខេត្តបាត់ដំបង (ផ្លូវវាងក្រុងបាត់ដំបង)",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក"
+  },
+  {
+   "id": "mm-d18e02c720",
+   "name": "Tela Krakor",
+   "lat": 12.516869,
+   "lng": 104.266272,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្ថានីយតេលាក្រគរ ខេត្តពោធិសាត់",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-a0ff0a64b6",
+   "name": "Kolbot Restaurant",
+   "lat": 12.55511,
+   "lng": 103.914253,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1200
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "OneGo",
+   "address": "ភោជនីយដ្ឋានកុលបុត្រ ខេត្តពោធិសាត់",
+   "hours": "24/7",
+   "facilities": [
+    "restaurant"
+   ]
+  },
+  {
+   "id": "mm-a6a1472766",
+   "name": "Happy Night",
+   "lat": 12.540916,
+   "lng": 103.901203,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1200
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "the-sky-ev",
+   "address": "Happy Night EV (ជាប់ភោជនីយដ្ឋានម្លប់ស្វាយពោធិ៍សាត់)",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "restaurant"
+   ],
+   "note": "App One GO EV និងមានបុគ្គលិក"
+  },
+  {
+   "id": "mm-e974bd8a0f",
+   "name": "Preah NetPreah",
+   "lat": 13.632217,
+   "lng": 103.101973,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "pol-rithy-ev",
+   "app": "QR ABA",
+   "address": "ផ្លូវជាតិលេខ6 ស្រុកព្រះនេត្រព្រះ ខេត្តបន្ទាយមានជ័យ",
+   "hours": "24/7",
+   "facilities": [
+    "qr"
+   ]
+  },
+  {
+   "id": "mm-a7b20fddba",
+   "name": "Borey Chey",
+   "lat": 13.525481,
+   "lng": 103.01928,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "boreychey-ev",
+   "app": "OneGo",
+   "address": "Boreychey EV គីឡូម៉ែត្រ347 ស្រុកមង្គលបូរី ខេត្តបន្ទាយមានជ័យ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-1fb2d6926b",
+   "name": "Sala Lek 5",
+   "lat": 11.939728,
+   "lng": 104.714262,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ស្ថានីយ Lim Long សាលាលេខ 5 កំពង់ឆ្នាំង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-e1e4232aba",
+   "name": "Banteay Neang",
+   "lat": 13.516781,
+   "lng": 103.01726,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "count": 3,
+     "price_khr": 1100
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1100
+    }
+   ],
+   "src": "mymaps",
+   "operator": "banteay-neang-ev-station",
+   "app": "UnifyCharge",
+   "address": "គីឡូម៉ែត្រ346 ផ្លូវជាតិលេខ5 ភូមិភ្នំ ឃុំបន្ទាយនាង ស្រុកមង្គលបុរី ខេត្តបន្ទាយមានជ័យ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-3bd18f188f",
+   "name": "Borvil",
+   "lat": 13.242674,
+   "lng": 102.846317,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្រុកបវេល ខេត្តបាត់ដំបង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-db02cb421f",
+   "name": "Somlot",
+   "lat": 12.618843,
+   "lng": 102.857958,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្រុកសំឡូត ខេត្តបាត់ដំបង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-e0c03d402c",
+   "name": "Somlot 1",
+   "lat": 12.720668,
+   "lng": 102.868762,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្រុកសំឡូត (ផ្សាររ៉ែដែក) ខេត្តបាត់ដំបង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-ba5c290aff",
+   "name": "O Ta Vao",
+   "lat": 12.712136,
+   "lng": 102.753781,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "អូតាវ៉ៅ (ភ្នំដំបង) ខេត្តបាត់ដំបង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-fa72b2cb21",
+   "name": "Somlot 2",
+   "lat": 12.57772,
+   "lng": 102.816264,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "តាសាញត្បូង ស្រុកសំឡូត (ស្ពានវែង) ខេត្តបាត់ដំបង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-20e99e1f4c",
+   "name": "Pokis Coffee",
+   "lat": 12.634726,
+   "lng": 103.728354,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "UnifyCharge",
+   "address": "Pokis Coffee Boeung Knar, Pusat",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-5ae417a6c2",
+   "name": "Wat Ta Sot",
+   "lat": 12.24143,
+   "lng": 104.55359,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ស្ថានីយមុខវត្តតាសុត កំពង់ឆ្នាំង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-80f8b8986a",
+   "name": "Poi Pet",
+   "lat": 13.650226,
+   "lng": 102.567069,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ក្រុងប៉ោយប៉ែត",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-b672eb8080",
+   "name": "Kampong Chhnang City",
+   "lat": 12.259328,
+   "lng": 104.672297,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 180,
+     "price_khr": 1100
+    },
+    {
+     "type": "CCS2",
+     "kw": 180,
+     "price_khr": 1100
+    }
+   ],
+   "src": "mymaps",
+   "operator": "pich-ev-station",
+   "app": "UnifyCharge",
+   "address": "ភូមិផ្សារលេី សង្កាត់ផ្សារឆ្នាំង ក្រុងកំពងលឆ្នាំង ខេត្តកំពង់ឆ្នាំង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-626f678849",
+   "name": "Sek Meas",
+   "lat": 12.054233,
+   "lng": 105.062682,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160
+    },
+    {
+     "type": "CCS2",
+     "kw": 160
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "ស្គន់",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-f35a647d52",
+   "name": "CE Energy (Skun) DC",
+   "lat": 12.048594,
+   "lng": 105.027584,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev168",
+   "app": "EV168",
+   "address": "Ce ស្គន់ ស្រុកជើងព្រៃ កំពង់ចាម",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-643516c83b",
+   "name": "2002 Cafe",
+   "lat": 11.992584,
+   "lng": 105.451873,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy-fast-charge",
+   "app": "EV Energy",
+   "address": "2002 កាហ្វេ",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-44b7ee3587",
+   "name": "Sroy Raksmey",
+   "lat": 13.524769,
+   "lng": 105.970564,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "count": 3,
+     "price_khr": 1320
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1320
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-charger",
+   "app": "OneGo",
+   "address": "Sroy Raksmey Petrol ស្ទឹងត្រែង",
+   "hours": "6:00am-12:00am",
+   "note": "0966666167"
+  },
+  {
+   "id": "mm-3633e3bcce",
+   "name": "Kratie City",
+   "lat": 12.495182,
+   "lng": 106.017459,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 30,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "ក្រុងក្រចេះ",
+   "hours": "7:00 - 19:00",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក"
+  },
+  {
+   "id": "mm-2a6b503525",
+   "name": "Lim Long (Snoul)",
+   "lat": 12.044252,
+   "lng": 106.472192,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "ហ្គារាសសាំង Lim Long នៅស្នួល",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-d24de4dc88",
+   "name": "EV Station",
+   "lat": 12.45108,
+   "lng": 106.030727,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120
+    },
+    {
+     "type": "CCS2",
+     "kw": 120
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "EV Station - ផ្លូវជាតិលេខ73 ក្បាលស្ពានពាមទេរ",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ  (Staff)"
+  },
+  {
+   "id": "mm-47e60ac9b7",
+   "name": "Just's Coffee",
+   "lat": 12.253918,
+   "lng": 105.967237,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "Just's Coffee & Ice Cream",
+   "hours": "6:00 AM - 7:00 PM",
+   "facilities": [
+    "staff",
+    "coffee"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ (https://t.me/Justscafe )"
+  },
+  {
+   "id": "mm-a7e370d3cb",
+   "name": "Total Energies Soung",
+   "lat": 11.914084,
+   "lng": 105.631217,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "Total Energies ក្រុងសួង",
+   "hours": "24/7",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក ប្រើ QR scan pay"
+  },
+  {
+   "id": "mm-d4879224b9",
+   "name": "CE Clean Energy",
+   "lat": 12.458574,
+   "lng": 107.183593,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ce-clean-energy-fast-charge",
+   "address": "ខេត្ដ មណ្ឌលគីរី /0884351883/",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ (Staff) · Mondul Kiri Province"
+  },
+  {
+   "id": "mm-3602a11dd6",
+   "name": "Mountain Coffee",
+   "lat": 13.727981,
+   "lng": 106.967401,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "Cars Care 168 & Mountain coffee",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-579d53a3c7",
+   "name": "Caltex Kampong Cham",
+   "lat": 11.999344,
+   "lng": 105.453048,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "Khmer EV",
+   "address": "ស្ថានីយ Caltex ទន្លេអ៊ុ ខេត្តកំពង់ចាម",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-8572fdb3c1",
+   "name": "Kratie City",
+   "lat": 12.495641,
+   "lng": 106.017159,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    },
+    {
+     "type": "CCS2",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "CAM EV",
+   "address": "រង្វង់មូលព្រាបសរ ខេត្តក្រចេះ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-2083d2ab55",
+   "name": "November Coffee",
+   "lat": 13.520202,
+   "lng": 105.965036,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "November Coffee ស្ទឹងត្រែង",
+   "hours": "06:00 AM - 05:00 PM",
+   "facilities": [
+    "staff",
+    "coffee"
+   ],
+   "note": "មានបុគ្គលិកចាំសាកអោយ"
+  },
+  {
+   "id": "mm-062173f001",
+   "name": "Banlong City",
+   "lat": 13.73931,
+   "lng": 106.986689,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 60,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "ក្រុងបានលុង ខេត្តរតនៈគីរី",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានអ្នក Charge អោយ"
+  },
+  {
+   "id": "mm-14e85200c4",
+   "name": "NR7 Chhub",
+   "lat": 11.918368,
+   "lng": 105.594291,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1200
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "eabtry-ev-station",
+   "app": "OneGo",
+   "address": "ផ្លូវជាតិលេខ7 ភូមច្រក់ចំបក់ ឃុំជប់ ស្រុកត្បូងឃ្មុំ ខេត្តត្បូងឃ្មុំ",
+   "hours": "24/7",
+   "note": "097 223 3334"
+  },
+  {
+   "id": "mm-b3c9733f75",
+   "name": "MK7 EV, Stueng Treang",
+   "lat": 13.515364,
+   "lng": 105.96236,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1350
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "mk7-ev-station",
+   "app": "UnifyCharge",
+   "address": "ភូមិរាជានុកូល សង្កាត់ស្ទឹងត្រែង ក្រុងស្ទឹងត្រែង ខេត្តស្ទឹងត្រែង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-9f028ef854",
+   "name": "Watt EV Station",
+   "lat": 13.506643,
+   "lng": 105.967431,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1300
+    },
+    {
+     "type": "CCS2",
+     "kw": 160,
+     "price_khr": 1300
+    }
+   ],
+   "src": "mymaps",
+   "operator": "watt-ev-station",
+   "app": "UnifyCharge",
+   "address": "ភូមិរាជានុកូល សង្កាត់ស្ទឹងត្រែង ក្រុងស្ទឹងត្រែង ខេត្តស្ទឹងត្រែង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-f099885946",
+   "name": "Cafe Shop",
+   "lat": 12.329771,
+   "lng": 105.319891,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1200
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-station",
+   "app": "UnifyCharge",
+   "address": "ឃុំស្ពឺ ស្រុកចំការលើ ខេត្តកំពង់ចាម",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-57f1ada476",
+   "name": "Future EV, Skun",
+   "lat": 12.079235,
+   "lng": 105.074995,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "count": 3,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "future-ev-energy",
+   "app": "UnifyCharge",
+   "address": "ផ្លូវជាតិលេខ6 គីឡូម៉ែត្រ76 ភូមិស្រម៉រ ឃុំស្រម៉រ ស្រុកជេីងព្រៃ ខេត្តកំពង់ចាម",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-e23edf3b40",
+   "name": "The Max Coffee",
+   "lat": 11.004452,
+   "lng": 104.670198,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "app": "Khmer EV",
+   "address": "Max Cafe អង្គតាសោម ខេត្តតាកែវ",
+   "hours": "24/7",
+   "facilities": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "mm-60d92be818",
+   "name": "Svay Antor",
+   "lat": 11.599525,
+   "lng": 105.417518,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "app": "Khmer EV",
+   "address": "ស្វាយអន្ទរ ព្រៃវែង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-8d9b4925aa",
+   "name": "BVM Gas Station",
+   "lat": 11.727355,
+   "lng": 104.964729,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "BVM Station ព្រែកអញ្ចាញ",
+   "hours": "6:00 - 21:00",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Engery"
+  },
+  {
+   "id": "mm-8b0b52b1c3",
+   "name": "Kraol Kou",
+   "lat": 11.144736,
+   "lng": 105.635346,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 80,
+     "price_khr": 1350
+    }
+   ],
+   "src": "mymaps",
+   "operator": "cg-ev-energy",
+   "address": "ក្រោលគោ ស្វាយរៀង",
+   "hours": "7am - 7pm",
+   "facilities": [
+    "staff",
+    "qr"
+   ],
+   "note": "QR Code Scan, មានបុគ្គិលិកចាំសាក & ប្រើ Prepaid Card CG Engery"
+  },
+  {
+   "id": "mm-98d73317f9",
+   "name": "Caltex Ang Ta Soam",
+   "lat": 10.959698,
+   "lng": 104.66041,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 40,
+     "count": 2,
+     "price_khr": 1500
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "AIQR Showroom ជិតផ្សារលើ",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-e652ec98db",
+   "name": "Sokimex SVR",
+   "lat": 11.088862,
+   "lng": 105.79958,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 60
+    }
+   ],
+   "src": "mymaps",
+   "operator": "ev-energy",
+   "app": "EV Energy",
+   "address": "Sokimex Svay Reing (ក្រុងស្វាយរៀង)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-18449c7744",
+   "name": "Vihear Sour",
+   "lat": 11.669212,
+   "lng": 105.068797,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 160,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "operator": "family-ev",
+   "app": "OneGo",
+   "address": "ផ្លូវ ជាតិលេខ8 គីឡូម៉ែត្រលេខ39 ឃុំវិហារសួគ៍ ស្រុកខ្សាច់កណ្តាល ខេត្ត កណ្តាល",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-3e1256834e",
+   "name": "Neak Loeung",
+   "lat": 11.263542,
+   "lng": 105.293354,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 120,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 120,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "hps-charger-ev",
+   "app": "UnifyCharge",
+   "address": "ផ្លូវជាតិលេខ1 ជាប់ស្ពានអ្នកលឿងត្រេីយខាងកេីត ភូមិ១ ឃុំព្រែកខ្សាយ ខ ស្រុកពាមរក៍ ខេត្តព្រៃវែង",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-3c82eceaeb",
+   "name": "Prek Taten",
+   "lat": 11.735986,
+   "lng": 104.829778,
+   "connectors": [
+    {
+     "type": "GBT_DC",
+     "kw": 240,
+     "price_khr": 1000
+    },
+    {
+     "type": "CCS2",
+     "kw": 240,
+     "price_khr": 1000
+    }
+   ],
+   "src": "mymaps",
+   "operator": "khmer-ev",
+   "app": "Khmer EV",
+   "address": "ព្រែកតាទែន ខេត្តកណ្តាល",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-2a25175e55",
+   "name": "SHV, Phat Power Hotel",
+   "lat": 10.570778,
+   "lng": 103.557534,
+   "connectors": [
+    {
+     "type": "AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-897a6fc3bb",
+   "name": "SHV, Summer Bay Beach Club",
+   "lat": 10.548103,
+   "lng": 103.597983,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "address": "Summer Bay Beach",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាក · Note: 4$/hour"
+  },
+  {
+   "id": "mm-98190f802e",
+   "name": "KK, Kiri Homestay",
+   "lat": 11.194653,
+   "lng": 103.751373,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "operator": "sk99-kiri-home-stay-7kw",
+   "app": "EV Energy",
+   "hours": "For visitor only",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-6dab3fc2fd",
+   "name": "KP, Venture Kampot",
+   "lat": 10.57173,
+   "lng": 104.007133,
+   "connectors": [
+    {
+     "type": "AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps"
+  },
+  {
+   "id": "mm-8130b13053",
+   "name": "KP, Kampot Hampton Villa",
+   "lat": 10.602948,
+   "lng": 104.176556,
+   "connectors": [
+    {
+     "type": "AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-250e3e2070",
+   "name": "KP, B Resort",
+   "lat": 10.613343,
+   "lng": 104.172143,
+   "connectors": [
+    {
+     "type": "AC"
+    }
+   ],
+   "src": "mymaps",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-2cbf0da47b",
+   "name": "SR, Paris Angkor",
+   "lat": 13.362989,
+   "lng": 103.854355,
+   "connectors": [
+    {
+     "type": "AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps"
+  },
+  {
+   "id": "mm-c95d23c461",
+   "name": "KSP, Romdoul Kirirom",
+   "lat": 11.38217,
+   "lng": 104.030535,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7,
+     "price_khr": 1200
+    }
+   ],
+   "src": "mymaps",
+   "address": "Romdoul Reset",
+   "hours": "24/7",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គលិកចាំសាក (092922205)"
+  },
+  {
+   "id": "mm-f1bd1cf876",
+   "name": "PP, Exchange Square, FL:B1",
+   "lat": 11.573913,
+   "lng": 104.920677,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    },
+    {
+     "type": "TYPE2",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "អគារ អ៉ិចឆេង ស៊្វែរ (Exchange Square) (ចំណតក្រោមដី B1)",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-03b802ac69",
+   "name": "PP, Baitong Hotel",
+   "lat": 11.554491,
+   "lng": 104.924066,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    },
+    {
+     "type": "TYPE2",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "address": "បៃតងអូតែល (7kw)",
+   "facilities": [
+    "staff",
+    "coffee",
+    "hotel"
+   ],
+   "note": "មានបុគ្គលិកចាំសាក · ផឹកកាហ្វេ Free សាក"
+  },
+  {
+   "id": "mm-0cc06bb529",
+   "name": "PP, Axis Residence",
+   "lat": 11.549426,
+   "lng": 104.864348,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    },
+    {
+     "type": "TYPE2",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Axis Residence",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-2c49c2040f",
+   "name": "PP, Liberty Car",
+   "lat": 11.588475,
+   "lng": 104.932339,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "app": "EV Energy",
+   "address": "Liberty Carz",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-fb4eb75698",
+   "name": "PP, TK Central",
+   "lat": 11.582614,
+   "lng": 104.900413,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    },
+    {
+     "type": "TYPE2",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "TK Central",
+   "hours": "24/7"
+  },
+  {
+   "id": "mm-edd3974ffa",
+   "name": "PP, Urban Village",
+   "lat": 11.523971,
+   "lng": 104.93097,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    },
+    {
+     "type": "TYPE2",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Urban Village Condominiums",
+   "hours": "24/7",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-118aae45fb",
+   "name": "PP, Wat Sleang",
+   "lat": 11.464495,
+   "lng": 104.813342,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "វត្តស្លែងជុំមិត្ត",
+   "hours": "6AM - 9PM",
+   "price_note": "10,000៛/1hour",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ ឬទាក់ទងលេខ 093652224"
+  },
+  {
+   "id": "mm-da8b7313cb",
+   "name": "PP, Rohut Garden",
+   "lat": 11.452016,
+   "lng": 104.905048,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "Rohut Garden",
+   "hours": "8AM - 8PM",
+   "price_note": "10,000៛/1hour",
+   "facilities": [
+    "staff"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ ឬទាក់ទងលេខ 093652224"
+  },
+  {
+   "id": "mm-68642795e1",
+   "name": "BTB, Emerald Hotel",
+   "lat": 13.096605,
+   "lng": 103.203091,
+   "connectors": [
+    {
+     "type": "AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "facilities": [
+    "hotel"
+   ]
+  },
+  {
+   "id": "mm-e171e8f5a7",
+   "name": "ភូមិដំណាក់ដំរី (គិរីរម្យ Resort)",
+   "lat": 11.281967,
+   "lng": 104.123125,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "operator": "private",
+   "address": "ភូមិដំណាក់ដំរី (គិរីរម្យ Resort)",
+   "hours": "24/7",
+   "price_note": "12,000៛/1hour",
+   "facilities": [
+    "staff",
+    "hotel"
+   ],
+   "note": "មានបុគ្គិលិកចាំសាកអោយ ឬទាក់ទងលេខ 081 523 355"
+  },
+  {
+   "id": "mm-4302b0c1a0",
+   "name": "The Wave",
+   "lat": 10.492761,
+   "lng": 104.288088,
+   "connectors": [
+    {
+     "type": "TYPE2",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "facilities": [
+    "staff"
+   ],
+   "note": "The Wave Kep West · CCS2 · Staff"
+  },
+  {
+   "id": "mm-ff88c480cc",
+   "name": "Skylar",
+   "lat": 11.53594,
+   "lng": 104.9267,
+   "connectors": [
+    {
+     "type": "GBT_AC",
+     "kw": 7
+    },
+    {
+     "type": "TYPE2",
+     "kw": 7
+    }
+   ],
+   "src": "mymaps",
+   "app": "Charge+",
+   "address": "Skylar by Maridian",
+   "hours": "24/7"
+  }
+ ]
+}
