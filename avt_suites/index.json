@@ -11,12 +11,12 @@
     },
     {
       "package": "com.avt.runner",
-      "file": "avt-cartoon-screen-1.12.apk",
+      "file": "avt-cartoon-screen-1.14.apk",
       "label": "AVT Cartoon Screen",
-      "versionName": "1.12",
-      "versionCode": 13,
-      "size": 5062313,
-      "sha256": "6cf807b5777c182c57fc5dff77906cd46c62e46c19f5ad8b7a43f6fab7926579"
+      "versionName": "1.14",
+      "versionCode": 15,
+      "size": 5066644,
+      "sha256": "0fdd1c1de6b2a3690a7f276cb89c83acdca45eaca3cc977f548392b272407945"
     },
     {
       "package": "com.avt.display",
