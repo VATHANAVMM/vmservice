@@ -110,16 +110,6 @@
       "size": 124284262,
       "sha256": "2157055f31135e490e480fb06014ede57246c65d495b14bab4719e886935024c",
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
-    },
-    {
-      "package": "app.morphe.android.apps.youtube.music",
-      "label": "Morphe YT Music",
-      "file": "morphe-ytmusic.v9.20.53.apk",
-      "versionName": "9.20.53.SP.1",
-      "versionCode": 92053241,
-      "size": 77503207,
-      "sha256": "dae0921c521efee983e14768a66ee74cf41c2cc9374c280874bda5f9411db2f2",
-      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
     }
   ],
   "external": [
