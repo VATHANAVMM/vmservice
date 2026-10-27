@@ -1,138 +1,138 @@
 {
- "apps": [
-  {
-   "package": "com.avt.kit",
-   "file": "avt-kit.v2.2.6.376.apk",
-   "label": "AVT Kit",
-   "versionName": "2.2.6",
-   "versionCode": 376,
-   "size": 18748806,
-   "sha256": "ebc9613eaa484b7c6df653897cf3e5c13b2ba3df22754960a5f7b913d2997a42"
-  },
-  {
-   "package": "com.avt.runner",
-   "file": "avt-cartoon-screen-1.12.apk",
-   "label": "AVT Cartoon Screen",
-   "versionName": "1.12",
-   "versionCode": 13,
-   "size": 5062313,
-   "sha256": "6cf807b5777c182c57fc5dff77906cd46c62e46c19f5ad8b7a43f6fab7926579"
-  },
-  {
-   "package": "com.avt.display",
-   "file": "avatr-display-3.8.apk",
-   "label": "AVATR Display",
-   "versionName": "3.8",
-   "versionCode": 29,
-   "size": 7002631,
-   "sha256": "0bfbc11f93b19d723263be235990e6e01cfea18991a7ac3b403188f15b6c2fe1"
-  },
-  {
-   "package": "com.avt.map",
-   "file": "avt-map-2.0.12.apk",
-   "label": "AVT Map",
-   "versionName": "2.0.12",
-   "versionCode": 99,
-   "size": 1338114,
-   "sha256": "a6f25ad91f4815250b36f88b065f50b17e3b89fc8f04ddf775738aef10cf86ad"
-  },
-  {
-   "package": "com.avt.cast",
-   "file": "avt-cast-2.3.apk",
-   "label": "AVT Cast",
-   "versionName": "2.3",
-   "versionCode": 51,
-   "size": 157338,
-   "sha256": "b868137bc77769ccd31566013309b9b2bd3c48a9c1b120cb758f9fe4b42f23a3"
-  },
-  {
-   "package": "com.avt.store",
-   "file": "avt-store-2.1.apk",
-   "label": "AVT Store",
-   "versionName": "2.1",
-   "versionCode": 47,
-   "size": 255640,
-   "sha256": "9e69da193594934a911c66f05fc0a3ee5e14857275617c3de3a083abff20dcd7"
-  },
-  {
-   "package": "com.avt.splitscreen",
-   "file": "avt-splitscreen-2.1.apk",
-   "label": "AVT SplitScreen",
-   "versionName": "2.1",
-   "versionCode": 26,
-   "size": 116311,
-   "sha256": "86f3bf47315da3be4b81443b3151f710b3f0a3cadfbab81b207d5fa41eca72d1"
-  }
- ],
- "microg": [
-  {
-   "package": "app.revanced.android.gms",
-   "label": "microG (ReVanced GmsCore)",
-   "file": "microg-revanced-gms.v7.1.1-avatr.5.3.apk",
-   "versionName": "7.1.1-avatr.5.3",
-   "versionCode": 255070115,
-   "size": 45428045,
-   "sha256": "526b9ad61d8f899e07726c4317936620f46f39041fe78dca47c3afaa08f9833f",
-   "signer": "a47fcbc3d6077d62b4a5fea6877ac5167304e1e1079e108f1040e788d5888569",
-   "hw": false
-  },
-  {
-   "package": "com.google.android.gms",
-   "label": "microG Services (Huawei)",
-   "file": "microg-gms-hw.v0.3.16.252432-hw.apk",
-   "versionName": "0.3.16.252432-hw",
-   "versionCode": 252432032,
-   "size": 94980856,
-   "sha256": "a44ce933e2336d3340eb82ad3bb28bba03bc56a7b3cf3c98250a225c55b572de",
-   "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
-   "hw": true
-  },
-  {
-   "package": "com.android.vending",
-   "label": "microG Companion (Huawei)",
-   "file": "microg-vending-hw.v0.3.16.40226-hw.apk",
-   "versionName": "0.3.16.40226-hw",
-   "versionCode": 84022632,
-   "size": 4207912,
-   "sha256": "c1aa0c8854fcdac31d23d54e1ea62daedff6b7a6405a2f5ff5351c2dde8f113d",
-   "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
-   "hw": true
-  }
- ],
- "thirdparty": [
-  {
-   "package": "app.morphe.android.youtube",
-   "label": "Morphe YouTube",
-   "file": "morphe-youtube.v21.16.256.apk",
-   "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/morphe-youtube.v21.16.256.apk",
-   "versionName": "21.16.256",
-   "versionCode": 1561068412,
-   "size": 124284262,
-   "sha256": "2157055f31135e490e480fb06014ede57246c65d495b14bab4719e886935024c",
-   "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
-  },
-  {
-   "package": "app.morphe.android.apps.youtube.music",
-   "label": "Morphe YT Music",
-   "file": "morphe-ytmusic.v9.15.51.apk",
-   "versionName": "9.15.51",
-   "versionCode": 91551240,
-   "size": 75702405,
-   "sha256": "742b007147e56c36dc3e722cbcdd235450fb676e79e9cb591ae6a0f76c3c4a55",
-   "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
-  }
- ],
- "external": [
-  {
-   "package": "com.google.android.apps.maps",
-   "label": "Google Maps",
-   "file": "google-maps.v26.41.03.apk",
-   "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/google-maps.v26.41.03.apk",
-   "versionName": "26.41.03",
-   "versionCode": 1068821134,
-   "size": 304184346,
-   "sha256": "c9a162bc0bdd8c46a6fe4722cc4f1834c40a037f38e91f8348e05f59429008ab",
-   "signer": "f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83"
-  }
- ]
+  "apps": [
+    {
+      "package": "com.avt.kit",
+      "file": "avt-kit.v2.2.6.376.apk",
+      "label": "AVT Kit",
+      "versionName": "2.2.6",
+      "versionCode": 376,
+      "size": 18748806,
+      "sha256": "ebc9613eaa484b7c6df653897cf3e5c13b2ba3df22754960a5f7b913d2997a42"
+    },
+    {
+      "package": "com.avt.runner",
+      "file": "avt-cartoon-screen-1.12.apk",
+      "label": "AVT Cartoon Screen",
+      "versionName": "1.12",
+      "versionCode": 13,
+      "size": 5062313,
+      "sha256": "6cf807b5777c182c57fc5dff77906cd46c62e46c19f5ad8b7a43f6fab7926579"
+    },
+    {
+      "package": "com.avt.display",
+      "file": "avatr-display-3.8.apk",
+      "label": "AVATR Display",
+      "versionName": "3.8",
+      "versionCode": 29,
+      "size": 7002631,
+      "sha256": "0bfbc11f93b19d723263be235990e6e01cfea18991a7ac3b403188f15b6c2fe1"
+    },
+    {
+      "package": "com.avt.map",
+      "file": "avt-map-2.0.12.apk",
+      "label": "AVT Map",
+      "versionName": "2.0.12",
+      "versionCode": 99,
+      "size": 1338114,
+      "sha256": "a6f25ad91f4815250b36f88b065f50b17e3b89fc8f04ddf775738aef10cf86ad"
+    },
+    {
+      "package": "com.avt.cast",
+      "file": "avt-cast-2.3.apk",
+      "label": "AVT Cast",
+      "versionName": "2.3",
+      "versionCode": 51,
+      "size": 157338,
+      "sha256": "b868137bc77769ccd31566013309b9b2bd3c48a9c1b120cb758f9fe4b42f23a3"
+    },
+    {
+      "package": "com.avt.store",
+      "file": "avt-store-2.1.apk",
+      "label": "AVT Store",
+      "versionName": "2.1",
+      "versionCode": 47,
+      "size": 255640,
+      "sha256": "9e69da193594934a911c66f05fc0a3ee5e14857275617c3de3a083abff20dcd7"
+    },
+    {
+      "package": "com.avt.splitscreen",
+      "file": "avt-splitscreen-2.1.apk",
+      "label": "AVT SplitScreen",
+      "versionName": "2.1",
+      "versionCode": 26,
+      "size": 116311,
+      "sha256": "86f3bf47315da3be4b81443b3151f710b3f0a3cadfbab81b207d5fa41eca72d1"
+    }
+  ],
+  "microg": [
+    {
+      "package": "app.revanced.android.gms",
+      "label": "microG (ReVanced GmsCore)",
+      "file": "microg-revanced-gms.v7.1.1-avatr.5.3.apk",
+      "versionName": "7.1.1-avatr.5.3",
+      "versionCode": 255070115,
+      "size": 45428045,
+      "sha256": "526b9ad61d8f899e07726c4317936620f46f39041fe78dca47c3afaa08f9833f",
+      "signer": "a47fcbc3d6077d62b4a5fea6877ac5167304e1e1079e108f1040e788d5888569",
+      "hw": false
+    },
+    {
+      "package": "com.google.android.gms",
+      "label": "microG Services (Huawei)",
+      "file": "microg-gms-hw.v0.3.16.252432-hw.apk",
+      "versionName": "0.3.16.252432-hw",
+      "versionCode": 252432032,
+      "size": 94980856,
+      "sha256": "a44ce933e2336d3340eb82ad3bb28bba03bc56a7b3cf3c98250a225c55b572de",
+      "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
+      "hw": true
+    },
+    {
+      "package": "com.android.vending",
+      "label": "microG Companion (Huawei)",
+      "file": "microg-vending-hw.v0.3.16.40226-hw.apk",
+      "versionName": "0.3.16.40226-hw",
+      "versionCode": 84022632,
+      "size": 4207912,
+      "sha256": "c1aa0c8854fcdac31d23d54e1ea62daedff6b7a6405a2f5ff5351c2dde8f113d",
+      "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
+      "hw": true
+    }
+  ],
+  "thirdparty": [
+    {
+      "package": "app.morphe.android.youtube",
+      "label": "Morphe YouTube",
+      "file": "morphe-youtube.v21.16.256.apk",
+      "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/morphe-youtube.v21.16.256.apk",
+      "versionName": "21.16.256",
+      "versionCode": 1561068412,
+      "size": 124284262,
+      "sha256": "2157055f31135e490e480fb06014ede57246c65d495b14bab4719e886935024c",
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
+    },
+    {
+      "package": "app.morphe.android.apps.youtube.music",
+      "label": "Morphe YT Music",
+      "file": "morphe-ytmusic.v9.20.53.apk",
+      "versionName": "9.20.53.SP.1",
+      "versionCode": 92053241,
+      "size": 77503207,
+      "sha256": "dae0921c521efee983e14768a66ee74cf41c2cc9374c280874bda5f9411db2f2",
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
+    }
+  ],
+  "external": [
+    {
+      "package": "com.google.android.apps.maps",
+      "label": "Google Maps",
+      "file": "google-maps.v26.41.03.apk",
+      "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/google-maps.v26.41.03.apk",
+      "versionName": "26.41.03",
+      "versionCode": 1068821134,
+      "size": 304184346,
+      "sha256": "c9a162bc0bdd8c46a6fe4722cc4f1834c40a037f38e91f8348e05f59429008ab",
+      "signer": "f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83"
+    }
+  ]
 }
