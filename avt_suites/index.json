@@ -101,6 +101,16 @@
   ],
   "thirdparty": [
     {
+      "package": "app.morphe.android.apps.youtube.music",
+      "label": "Morphe YT Music",
+      "file": "morphe-ytmusic.v9.15.51.apk",
+      "versionName": "9.15.51",
+      "versionCode": 91551240,
+      "size": 75702405,
+      "sha256": "742b007147e56c36dc3e722cbcdd235450fb676e79e9cb591ae6a0f76c3c4a55",
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
+    },
+    {
       "package": "app.morphe.android.youtube",
       "label": "Morphe YouTube",
       "file": "morphe-youtube.v21.16.256.apk",
