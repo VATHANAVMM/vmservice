@@ -108,7 +108,8 @@
       "versionCode": 91551240,
       "size": 75702405,
       "sha256": "742b007147e56c36dc3e722cbcdd235450fb676e79e9cb591ae6a0f76c3c4a55",
-      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913"
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/morphe-ytmusic.v9.15.51.apk"
     },
     {
       "package": "app.morphe.android.youtube",
