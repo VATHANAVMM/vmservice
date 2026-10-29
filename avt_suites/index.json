@@ -2,12 +2,12 @@
   "apps": [
     {
       "package": "com.avt.kit",
-      "file": "avt-kit.v2.3.7.390.apk",
+      "file": "avt-kit.v2.3.8.391.apk",
       "label": "AVT Kit",
-      "versionName": "2.3.7",
-      "versionCode": 390,
-      "size": 19015209,
-      "sha256": "2717aa2ddd1f27e3b786dcb67e8208d8c69b415512800f243aa20c2aa32c0c05"
+      "versionName": "2.3.8",
+      "versionCode": 391,
+      "size": 19048174,
+      "sha256": "9877340062596e1eeaeda905d97653e1b5b5c580dd03b8e0ef6242c4f6fa78c9"
     },
     {
       "package": "com.avt.runner",
@@ -111,7 +111,7 @@
   "thirdparty": [
     {
       "package": "app.morphe.android.apps.youtube.music",
-      "label": "Morphe YT Music",
+      "label": "YT Music",
       "file": "morphe-ytmusic.v9.15.51.apk",
       "versionName": "9.15.51",
       "versionCode": 91551240,
@@ -122,7 +122,7 @@
     },
     {
       "package": "app.morphe.android.youtube",
-      "label": "Morphe YouTube",
+      "label": "YouTube",
       "file": "morphe-youtube.v21.16.256.apk",
       "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/morphe-youtube.v21.16.256.apk",
       "versionName": "21.16.256",
