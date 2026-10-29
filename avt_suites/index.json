@@ -1,4 +1,7 @@
 {
+  "voice": {
+    "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw"
+  },
   "apps": [
     {
       "package": "com.avt.kit",
