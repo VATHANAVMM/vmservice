@@ -62,6 +62,15 @@
       "versionCode": 26,
       "size": 116311,
       "sha256": "86f3bf47315da3be4b81443b3151f710b3f0a3cadfbab81b207d5fa41eca72d1"
+    },
+    {
+      "package": "com.avt.copilot",
+      "file": "avt-copilot-3.2.apk",
+      "label": "AVT Copilot",
+      "versionName": "3.2",
+      "versionCode": 5,
+      "size": 95657,
+      "sha256": "7f6d0b93d087fbd9aaf01b45073b6987ead996bba687df0f8402404faea3a438"
     }
   ],
   "microg": [
