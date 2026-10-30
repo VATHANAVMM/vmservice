@@ -32,12 +32,12 @@
     },
     {
       "package": "com.avt.map",
-      "file": "avt-map-2.0.15.apk",
+      "file": "avt-map-2.0.33.apk",
       "label": "AVT Map",
-      "versionName": "2.0.15",
-      "versionCode": 102,
-      "size": 1338114,
-      "sha256": "fffba527281acf758e223f9684079ec5cc4b29e3db071e6e2020785a9fb3b2ab"
+      "versionName": "2.0.33",
+      "versionCode": 120,
+      "size": 1379075,
+      "sha256": "ad35ac652324f8428ab56024b8dd03e8af267e2989d42785ddc0d8fda3657dfc"
     },
     {
       "package": "com.avt.cast",
