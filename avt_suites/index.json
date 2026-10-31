@@ -148,5 +148,13 @@
       "signer": "f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83",
       "minAvatrOs": "4.7"
     }
-  ]
+  ],
+  "tunnel": {
+    "version": "2026.10.5-sp1",
+    "file": "cloudflared-arm64.gz",
+    "size": 18283768,
+    "sha256": "621c8eeb90635ae28a347521e0a60e29d9c9ab961502a45f3197d389a9494fef",
+    "binarySize": 37662975,
+    "binarySha256": "cd2025c26c02972e8416f7832be705426def96ee695692b36056ed1e6148baa3"
+  }
 }
