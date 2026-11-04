@@ -1,0 +1,36 @@
+name: Lyrics index
+
+# Rebuilds lyrics/index.txt whenever .lrc files are added, changed or removed,
+# so AVT cars know which lyrics to download.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "lyrics/**.lrc"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: lyrics
+      - name: Build index
+        run: |
+          cd lyrics
+          {
+            echo "# AVT lyrics library index - written automatically, do not edit."
+            echo "# <size in bytes><TAB><file name>"
+            find . -maxdepth 1 -type f -name '*.lrc' -printf '%s\t%f\n' | LC_ALL=C sort -t "$(printf '\t')" -k2
+          } > index.txt
+      - name: Commit
+        run: |
+          git config user.name "AVT lyrics bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add lyrics/index.txt
+          git diff --cached --quiet || git commit -m "Update lyrics index"
+          git push
