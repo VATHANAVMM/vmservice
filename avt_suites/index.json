@@ -5,12 +5,12 @@
   "apps": [
     {
       "package": "com.avt.kit",
-      "file": "avt-kit.v2.5.15.418.apk",
+      "file": "avt-kit.v2.5.17.420.apk",
       "label": "AVT Kit",
-      "versionName": "2.5.15",
-      "versionCode": 418,
-      "size": 18193037,
-      "sha256": "bba0e8691f738129d0e3940acd494b7aab68c3da65bd70c62eb5e8e3e05b746f"
+      "versionName": "2.5.17",
+      "versionCode": 420,
+      "size": 18209421,
+      "sha256": "6c743e00923d76bc6ce1dbd42a47d717024a86628f1e5bb20fa89782dd9b42b6"
     },
     {
       "package": "com.avt.runner",
