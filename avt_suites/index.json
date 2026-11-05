@@ -79,13 +79,13 @@
   "microg": [
     {
       "package": "app.revanced.android.gms",
-      "label": "microG (ReVanced GmsCore)",
-      "file": "microg-revanced-gms.v7.1.1-avatr.5.3.apk",
+      "label": "AVT Micro G",
+      "file": "avt-microg.v7.1.1-avatr.5.3.1.apk",
       "versionName": "7.1.1-avatr.5.3",
-      "versionCode": 255070115,
-      "size": 45428045,
-      "sha256": "526b9ad61d8f899e07726c4317936620f46f39041fe78dca47c3afaa08f9833f",
-      "signer": "a47fcbc3d6077d62b4a5fea6877ac5167304e1e1079e108f1040e788d5888569",
+      "versionCode": 255070116,
+      "size": 46908209,
+      "sha256": "4fa2b55cddf071451f004050ae10f2736122f7da4e9ad695fc59c4db7b4c53a9",
+      "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
       "hw": false
     },
     {
