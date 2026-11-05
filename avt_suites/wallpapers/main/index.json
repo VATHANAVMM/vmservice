@@ -157,6 +157,30 @@
    "thumb_sha256": "ecd48269f4bfafdd59c34f1654bd7ddfa78fba61b02fc3bff2f4258bdd659247"
   },
   {
+   "id": "avt-bayon-morning",
+   "title": "Bayon · Smiling faces",
+   "group": "Temple stone",
+   "animated": true,
+   "light": true,
+   "file": "avt-bayon-morning.gif",
+   "size": 1487413,
+   "sha256": "ca140e7ec58acfcf2d4ad6d8f21563623ad5b0fce8b5bf9b528ccd37a3ba9ac3",
+   "thumb": "thumbs/avt-bayon-morning.jpg",
+   "thumb_sha256": "d8ce3d9efd1136af2914e96c459532f628d4a5d66984ae261d4e2d180d693286"
+  },
+  {
+   "id": "avt-bayon-sunset",
+   "title": "Bayon · Sunset",
+   "group": "Temple stone",
+   "animated": true,
+   "light": false,
+   "file": "avt-bayon-sunset.gif",
+   "size": 1332334,
+   "sha256": "f46e11f694657d1c49baffa44faa82b585f78896c7473ae7492499065382c497",
+   "thumb": "thumbs/avt-bayon-sunset.jpg",
+   "thumb_sha256": "dc0b5cd34cde2ad367d48d91a81901428ee2e40d1b6da73deb35572d601667c1"
+  },
+  {
    "id": "avt-beach-shells",
    "title": "Seashell beach",
    "group": "Beach & sea",
@@ -265,6 +289,30 @@
    "thumb_sha256": "7aee1bda3083c8739d3ba24ceebe6fe2aa8ec0789884f8a99bd8c87b7bfc44e2"
   },
   {
+   "id": "avt-kohrong-plankton",
+   "title": "Koh Rong · Glowing sea",
+   "group": "Beach & sea",
+   "animated": true,
+   "light": false,
+   "file": "avt-kohrong-plankton.gif",
+   "size": 1182821,
+   "sha256": "db5ae2cd1b7a48f5176c1523099aa9b824c8f55c287bee47e3c43bbe525dc139",
+   "thumb": "thumbs/avt-kohrong-plankton.jpg",
+   "thumb_sha256": "31b6718affc778d6f37df8ac770819061e72e7561bec6906968b5e1a3bb72541"
+  },
+  {
+   "id": "avt-kep-sunset",
+   "title": "Kep · Sunset pier",
+   "group": "Beach & sea",
+   "animated": true,
+   "light": false,
+   "file": "avt-kep-sunset.gif",
+   "size": 783345,
+   "sha256": "85be20ee20d6010481dcb82f171f63bd9e2b2f2b5892aae98683cffd01adf598",
+   "thumb": "thumbs/avt-kep-sunset.jpg",
+   "thumb_sha256": "4e31a17c87afa79792375882d146b3881f8ddcc351b0d8a30b8d30e46a416d67"
+  },
+  {
    "id": "avt-rice-fields",
    "title": "Rice fields & sugar palms",
    "group": "Cambodia life",
@@ -349,6 +397,18 @@
    "thumb_sha256": "623ec0671a9673ad6244deee0a1e6f0e77b78c46bb1dc4e7ceee6e47290f52a2"
   },
   {
+   "id": "avt-bokor-clouds",
+   "title": "Bokor · Sea of clouds",
+   "group": "Cambodia life",
+   "animated": true,
+   "light": true,
+   "file": "avt-bokor-clouds.gif",
+   "size": 984011,
+   "sha256": "051a96cb07f75114261afca20be249c1241fb665f9bad25b673b2c07cc3c60ea",
+   "thumb": "thumbs/avt-bokor-clouds.jpg",
+   "thumb_sha256": "ab79cf81d7c8ccd209cb2cc6e2c0f490fbe9c84d8f589d44db3ba3cd7c8e31b4"
+  },
+  {
    "id": "avt-pastel-hills",
    "title": "Pastel hills",
    "group": "Dreamy",
@@ -419,6 +479,114 @@
    "sha256": "0510df8c514a624366ce880aeb915f48912dd3e295537f62afcb3d0f291e7dd2",
    "thumb": "thumbs/avt-lofi-moon.jpg",
    "thumb_sha256": "967879a918b493e48c14a6a84abd874311414807a19b5630f54c97219d5aa113"
+  },
+  {
+   "id": "avt-independence-day",
+   "title": "Independence Monument · Day",
+   "group": "Phnom Penh",
+   "animated": true,
+   "light": true,
+   "file": "avt-independence-day.gif",
+   "size": 632670,
+   "sha256": "31e6242f357093d8847e0bd6edce49e230d55bfd5dcd9cc092bc59bf9da974b0",
+   "thumb": "thumbs/avt-independence-day.jpg",
+   "thumb_sha256": "9f446b61bcadee54a050b9dd592632fe87747947ac3150aaaf10b1aae69e9b9c"
+  },
+  {
+   "id": "avt-independence-night",
+   "title": "Independence Monument · Night",
+   "group": "Phnom Penh",
+   "animated": true,
+   "light": false,
+   "file": "avt-independence-night.gif",
+   "size": 765626,
+   "sha256": "6c32c5708403fd212dc629e066d81843d9d531647e5416301b3410b3aa686c32",
+   "thumb": "thumbs/avt-independence-night.jpg",
+   "thumb_sha256": "3ffaab75358df948e2ad8feed2903aa958dd7ecf851adadcb6da3a2eaaa28006"
+  },
+  {
+   "id": "avt-royal-palace",
+   "title": "Royal Palace · Morning",
+   "group": "Phnom Penh",
+   "animated": true,
+   "light": true,
+   "file": "avt-royal-palace.gif",
+   "size": 503918,
+   "sha256": "013a6347345e02c0494a57e2a892091134b2ba1a2389c8bdc89a7b3b5110dd9f",
+   "thumb": "thumbs/avt-royal-palace.jpg",
+   "thumb_sha256": "3693d93a3768228d723415e6d3a77961b11e2ecf00b45eaf7bdf480b724ad109"
+  },
+  {
+   "id": "avt-royal-palace-night",
+   "title": "Royal Palace · Night",
+   "group": "Phnom Penh",
+   "animated": true,
+   "light": false,
+   "file": "avt-royal-palace-night.gif",
+   "size": 554524,
+   "sha256": "8d5e51805a0c9d9fa3782b197f9483ab84abae7491f25a105c0d144efa8119d3",
+   "thumb": "thumbs/avt-royal-palace-night.jpg",
+   "thumb_sha256": "4d7eacd1d4823d550f4c85bfdcbc848cdd5b2522675c5d91cd401df4d9679e3e"
+  },
+  {
+   "id": "avt-sakura",
+   "title": "Cherry blossom",
+   "group": "World",
+   "animated": true,
+   "light": true,
+   "file": "avt-sakura.gif",
+   "size": 1078639,
+   "sha256": "ca9d4fe7bb9fbc0761ba9a18b5d5d92292e8f7a1add719f8c6f8bb0151c41f0b",
+   "thumb": "thumbs/avt-sakura.jpg",
+   "thumb_sha256": "aa133ccc843b40a9e3e3695785a3a88db16d059e94e822b7279aac3f4e5e1fc3"
+  },
+  {
+   "id": "avt-snow-cabin",
+   "title": "Snowy mountains",
+   "group": "World",
+   "animated": true,
+   "light": true,
+   "file": "avt-snow-cabin.gif",
+   "size": 1516565,
+   "sha256": "e43dde3ef583f6b31a56c8723ea805f74fded95260b25b76376c655f0fcbfe4c",
+   "thumb": "thumbs/avt-snow-cabin.jpg",
+   "thumb_sha256": "db6b46a5a1e12b15844cf3f145f307b67aa25bac96ac2c172ff068a6668bce42"
+  },
+  {
+   "id": "avt-hot-air-balloons",
+   "title": "Hot air balloons",
+   "group": "World",
+   "animated": true,
+   "light": true,
+   "file": "avt-hot-air-balloons.gif",
+   "size": 884253,
+   "sha256": "cf175b166481188219d02018f720f17aa2de7879564fd63d59f2068d683ddcfb",
+   "thumb": "thumbs/avt-hot-air-balloons.jpg",
+   "thumb_sha256": "8f3ade8708b8ea5d0a0873dbd0fd2a4bcdfb5d1298588a13fdb9ceba0ef6482f"
+  },
+  {
+   "id": "avt-rainy-city",
+   "title": "Rainy city night",
+   "group": "World",
+   "animated": true,
+   "light": false,
+   "file": "avt-rainy-city.gif",
+   "size": 2306677,
+   "sha256": "11617059e2b9d9a2c70da9fd34e4c8f3ee0142fd99f00cb0929997c67d1bc012",
+   "thumb": "thumbs/avt-rainy-city.jpg",
+   "thumb_sha256": "1226040a2927b62f006fd19cf0e39d32e4add396401e12f0e3e14481683fc588"
+  },
+  {
+   "id": "avt-desert-night",
+   "title": "Desert night",
+   "group": "World",
+   "animated": true,
+   "light": false,
+   "file": "avt-desert-night.gif",
+   "size": 762257,
+   "sha256": "1fc0df40b069341b1271c0b206850337893aa1dba29d4c568c44ce2cfd9c294b",
+   "thumb": "thumbs/avt-desert-night.jpg",
+   "thumb_sha256": "e15d1238ef56805cf6d3853629954b0ff5866b07b37054488fb2786a269b9f9a"
   }
  ]
 }
