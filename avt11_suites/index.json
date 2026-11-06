@@ -5,21 +5,21 @@
   "apps": [
     {
       "package": "com.avt.kit11",
-      "file": "avt-kit11.v2.5.18.421.apk",
+      "file": "avt-kit11.v2.5.19.422.apk",
       "label": "AVT 11",
-      "versionName": "2.5.18",
-      "versionCode": 421,
+      "versionName": "2.5.19",
+      "versionCode": 422,
       "size": 18213517,
-      "sha256": "ecd486ee87ece5c0f0b095db49c99db7a9b88f21d340099fe9d3e6c1ad9d1f43"
+      "sha256": "05cc469ef8c39e068e1ee7fec66ddbed64311a1f6a4cb88648c0714ba9899109"
     },
     {
       "package": "com.avt.display11",
-      "file": "avatr-display11-4.0.apk",
+      "file": "avatr-display11-4.1.apk",
       "label": "AVATR Display 11",
-      "versionName": "4.0",
-      "versionCode": 31,
+      "versionName": "4.1",
+      "versionCode": 32,
       "size": 7006686,
-      "sha256": "0d822becb9b03f7455cdb90888b36d825352e4d7bde80791ceef08f675072b00"
+      "sha256": "9a2498731e36675501038092559f3b56f087b0db4eeef759b41e6a34d5f21ddd"
     },
     {
       "package": "com.avt.copilot",
