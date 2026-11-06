@@ -4,6 +4,24 @@
   },
   "apps": [
     {
+      "package": "com.avt.kit11",
+      "file": "avt-kit11.v2.5.18.421.apk",
+      "label": "AVT 11",
+      "versionName": "2.5.18",
+      "versionCode": 421,
+      "size": 18213517,
+      "sha256": "ecd486ee87ece5c0f0b095db49c99db7a9b88f21d340099fe9d3e6c1ad9d1f43"
+    },
+    {
+      "package": "com.avt.display11",
+      "file": "avatr-display11-4.0.apk",
+      "label": "AVATR Display 11",
+      "versionName": "4.0",
+      "versionCode": 31,
+      "size": 7006686,
+      "sha256": "0d822becb9b03f7455cdb90888b36d825352e4d7bde80791ceef08f675072b00"
+    },
+    {
       "package": "com.avt.copilot",
       "file": "avt-copilot-3.2.apk",
       "label": "AVT Copilot",
