@@ -29,6 +29,33 @@
       "versionCode": 5,
       "size": 95657,
       "sha256": "7f6d0b93d087fbd9aaf01b45073b6987ead996bba687df0f8402404faea3a438"
+    },
+    {
+      "package": "com.avt.cast",
+      "file": "avt-cast-2.3.apk",
+      "label": "AVT Cast",
+      "versionName": "2.3",
+      "versionCode": 51,
+      "size": 157338,
+      "sha256": "b868137bc77769ccd31566013309b9b2bd3c48a9c1b120cb758f9fe4b42f23a3"
+    },
+    {
+      "package": "com.avt.store",
+      "file": "avt-store-2.1.apk",
+      "label": "AVT Store",
+      "versionName": "2.1",
+      "versionCode": 47,
+      "size": 255640,
+      "sha256": "9e69da193594934a911c66f05fc0a3ee5e14857275617c3de3a083abff20dcd7"
+    },
+    {
+      "package": "com.avt.splitscreen",
+      "file": "avt-splitscreen-2.1.apk",
+      "label": "AVT SplitScreen",
+      "versionName": "2.1",
+      "versionCode": 26,
+      "size": 116311,
+      "sha256": "86f3bf47315da3be4b81443b3151f710b3f0a3cadfbab81b207d5fa41eca72d1"
     }
   ],
   "microg": [
