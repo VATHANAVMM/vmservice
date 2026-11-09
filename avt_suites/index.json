@@ -74,6 +74,15 @@
       "versionCode": 5,
       "size": 95657,
       "sha256": "7f6d0b93d087fbd9aaf01b45073b6987ead996bba687df0f8402404faea3a438"
+    },
+    {
+      "package": "com.avt.remotehost",
+      "file": "avt-remote-host-1.8.3.apk",
+      "label": "Phone Remote",
+      "versionName": "1.8.3",
+      "versionCode": 21,
+      "size": 201750,
+      "sha256": "b4441abf4df11890f7f364eed9879f5853072846a12ae61a405fe8a30eb6ede2"
     }
   ],
   "microg": [
