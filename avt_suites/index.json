@@ -166,8 +166,7 @@
       "versionCode": 1068821134,
       "size": 199732409,
       "sha256": "61b5c462349649a184317975722c46d8b4b0cb84585d7de6d25ed4c261f3d44e",
-      "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
-      "belowAvatrOs": "4.7"
+      "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db"
     }
   ],
   "tunnel": {
