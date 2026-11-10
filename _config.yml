@@ -1,9 +1,10 @@
-# Keep the GitHub Pages build tiny and fast.
-# The catalog (index.json) is all the fleet needs from Pages; every APK
-# is downloaded via an absolute URL (raw.githubusercontent / Releases),
-# so none of these large binaries need to be published to Pages.
+# Keep the GitHub Pages build small enough to deploy reliably.
+# The installed kit downloads catalog APKs from the github.io base, so every
+# apps/microg APK MUST stay published here. We only exclude large binaries
+# that are NOT fetched from this base: the wallpapers folder, YT Music (served
+# via an absolute raw URL), and the cloudflared archive.
 exclude:
-  - "*.apk"
-  - "*.gz"
   - "avt_suites/wallpapers"
+  - "morphe-ytmusic.v9.15.51.apk"
+  - "*.gz"
   - "README.md"
