@@ -1,0 +1,9 @@
+# Keep the GitHub Pages build tiny and fast.
+# The catalog (index.json) is all the fleet needs from Pages; every APK
+# is downloaded via an absolute URL (raw.githubusercontent / Releases),
+# so none of these large binaries need to be published to Pages.
+exclude:
+  - "*.apk"
+  - "*.gz"
+  - "avt_suites/wallpapers"
+  - "README.md"

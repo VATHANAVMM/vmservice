@@ -10,7 +10,8 @@
       "versionName": "2.5.19",
       "versionCode": 422,
       "size": 18197469,
-      "sha256": "6eeec5225fb712818a997429ac31d0c3a3f4c815a9c8e81638e4c35297bb2b5e"
+      "sha256": "6eeec5225fb712818a997429ac31d0c3a3f4c815a9c8e81638e4c35297bb2b5e",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-kit.v2.5.19.422.apk"
     },
     {
       "package": "com.avt.runner",
@@ -19,7 +20,8 @@
       "versionName": "1.14",
       "versionCode": 15,
       "size": 5066644,
-      "sha256": "0fdd1c1de6b2a3690a7f276cb89c83acdca45eaca3cc977f548392b272407945"
+      "sha256": "0fdd1c1de6b2a3690a7f276cb89c83acdca45eaca3cc977f548392b272407945",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-cartoon-screen-1.14.apk"
     },
     {
       "package": "com.avt.display",
@@ -28,7 +30,8 @@
       "versionName": "3.9",
       "versionCode": 30,
       "size": 7002590,
-      "sha256": "32e1bddf7d0367b96fe56fcf46f596a90730374f184166900ceae4260d454f71"
+      "sha256": "32e1bddf7d0367b96fe56fcf46f596a90730374f184166900ceae4260d454f71",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avatr-display-3.9.apk"
     },
     {
       "package": "com.avt.map",
@@ -37,7 +40,8 @@
       "versionName": "2.0.33",
       "versionCode": 120,
       "size": 1379075,
-      "sha256": "ad35ac652324f8428ab56024b8dd03e8af267e2989d42785ddc0d8fda3657dfc"
+      "sha256": "ad35ac652324f8428ab56024b8dd03e8af267e2989d42785ddc0d8fda3657dfc",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-map-2.0.33.apk"
     },
     {
       "package": "com.avt.cast",
@@ -46,7 +50,8 @@
       "versionName": "2.3",
       "versionCode": 51,
       "size": 157338,
-      "sha256": "b868137bc77769ccd31566013309b9b2bd3c48a9c1b120cb758f9fe4b42f23a3"
+      "sha256": "b868137bc77769ccd31566013309b9b2bd3c48a9c1b120cb758f9fe4b42f23a3",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-cast-2.3.apk"
     },
     {
       "package": "com.avt.store",
@@ -55,7 +60,8 @@
       "versionName": "2.1",
       "versionCode": 47,
       "size": 255640,
-      "sha256": "9e69da193594934a911c66f05fc0a3ee5e14857275617c3de3a083abff20dcd7"
+      "sha256": "9e69da193594934a911c66f05fc0a3ee5e14857275617c3de3a083abff20dcd7",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-store-2.1.apk"
     },
     {
       "package": "com.avt.splitscreen",
@@ -64,7 +70,8 @@
       "versionName": "2.1",
       "versionCode": 26,
       "size": 116311,
-      "sha256": "86f3bf47315da3be4b81443b3151f710b3f0a3cadfbab81b207d5fa41eca72d1"
+      "sha256": "86f3bf47315da3be4b81443b3151f710b3f0a3cadfbab81b207d5fa41eca72d1",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-splitscreen-2.1.apk"
     },
     {
       "package": "com.avt.copilot",
@@ -73,7 +80,8 @@
       "versionName": "3.2",
       "versionCode": 5,
       "size": 95657,
-      "sha256": "7f6d0b93d087fbd9aaf01b45073b6987ead996bba687df0f8402404faea3a438"
+      "sha256": "7f6d0b93d087fbd9aaf01b45073b6987ead996bba687df0f8402404faea3a438",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-copilot-3.2.apk"
     },
     {
       "package": "com.avt.remotehost",
@@ -82,7 +90,8 @@
       "versionName": "1.8.3",
       "versionCode": 21,
       "size": 201750,
-      "sha256": "b4441abf4df11890f7f364eed9879f5853072846a12ae61a405fe8a30eb6ede2"
+      "sha256": "b4441abf4df11890f7f364eed9879f5853072846a12ae61a405fe8a30eb6ede2",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-remote-host-1.8.3.apk"
     }
   ],
   "microg": [
@@ -95,7 +104,8 @@
       "size": 46908209,
       "sha256": "4fa2b55cddf071451f004050ae10f2736122f7da4e9ad695fc59c4db7b4c53a9",
       "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
-      "hw": false
+      "hw": false,
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-microg.v7.1.1-avatr.5.3.1.apk"
     },
     {
       "package": "com.google.android.gms",
@@ -106,7 +116,8 @@
       "size": 94980856,
       "sha256": "a44ce933e2336d3340eb82ad3bb28bba03bc56a7b3cf3c98250a225c55b572de",
       "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
-      "hw": true
+      "hw": true,
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/microg-gms-hw.v0.3.16.252432-hw.apk"
     },
     {
       "package": "com.android.vending",
@@ -117,7 +128,8 @@
       "size": 4207912,
       "sha256": "c1aa0c8854fcdac31d23d54e1ea62daedff6b7a6405a2f5ff5351c2dde8f113d",
       "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
-      "hw": true
+      "hw": true,
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/microg-vending-hw.v0.3.16.40226-hw.apk"
     }
   ],
   "thirdparty": [
