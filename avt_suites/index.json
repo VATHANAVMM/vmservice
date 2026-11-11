@@ -85,13 +85,13 @@
     },
     {
       "package": "com.avt.remotehost",
-      "file": "avt-remote-host-1.8.3.apk",
+      "file": "avt-remote-host-1.8.4.apk",
       "label": "Phone Remote",
-      "versionName": "1.8.3",
-      "versionCode": 21,
+      "versionName": "1.8.4",
+      "versionCode": 22,
       "size": 201750,
-      "sha256": "b4441abf4df11890f7f364eed9879f5853072846a12ae61a405fe8a30eb6ede2",
-      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-remote-host-1.8.3.apk"
+      "sha256": "f203352989c666a211008dcc81282a93d0049120e6c5ff28cd18f3ef7b1619d1",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-remote-host-1.8.4.apk"
     }
   ],
   "microg": [
