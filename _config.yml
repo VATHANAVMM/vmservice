@@ -2,9 +2,9 @@
 # The installed kit downloads catalog APKs from the github.io base, so every
 # apps/microg APK MUST stay published here. We only exclude large binaries
 # that are NOT fetched from this base: the wallpapers folder, YT Music (served
-# via an absolute raw URL), and the cloudflared archive.
+# via an absolute raw URL). cloudflared-arm64.gz MUST stay published: the
+# kit's Dashcam "Turn on phone access" downloads it from the github.io base.
 exclude:
   - "avt_suites/wallpapers"
   - "morphe-ytmusic.v9.15.51.apk"
-  - "*.gz"
   - "README.md"
