@@ -158,12 +158,12 @@
     {
       "package": "app.morphe.android.apps.maps",
       "label": "Google Maps",
-      "file": "google-maps-avt-26.41.03-launch.apk",
-      "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/google-maps-avt-26.41.03-launch.apk",
+      "file": "google-maps-avt-26.41.03-v2.apk",
+      "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/google-maps-avt-26.41.03-v2.apk",
       "versionName": "26.41.03",
-      "versionCode": 1068821134,
-      "size": 185722629,
-      "sha256": "40c35d92a732fee1b9feaac8b97146a14390d8a66d3c384866e72acc895cbcfa",
+      "versionCode": 1068821135,
+      "size": 185730593,
+      "sha256": "4a6c156a5de0cb24eb0207ae29b126d198289de162b26a671d3ad0bf0d66a572",
       "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db"
     }
   ],
