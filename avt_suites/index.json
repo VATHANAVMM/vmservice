@@ -136,13 +136,13 @@
     {
       "package": "app.morphe.android.apps.youtube.music",
       "label": "YT Music",
-      "file": "morphe-ytmusic.v9.15.51.apk",
+      "file": "morphe-ytmusic.v9.15.51-v2.apk",
       "versionName": "9.15.51",
-      "versionCode": 91551240,
-      "size": 77110971,
-      "sha256": "b8dbea19ae18759279868c1c8e2eb8877b017c06526847b1ad3f52587059b4dc",
+      "versionCode": 91551241,
+      "size": 76701378,
+      "sha256": "c1092968f07b8712e157cb764751dccdbfde5cc61ae4801470f2da9bf59ee0e5",
       "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
-      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/morphe-ytmusic.v9.15.51.apk"
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/morphe-ytmusic.v9.15.51-v2.apk"
     },
     {
       "package": "app.morphe.android.youtube",
