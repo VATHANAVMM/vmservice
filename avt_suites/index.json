@@ -35,13 +35,13 @@
     },
     {
       "package": "com.avt.map",
-      "file": "avt-map-2.0.37.apk",
+      "file": "avt-map-2.0.41.apk",
       "label": "AVT Map",
-      "versionName": "2.0.37",
-      "versionCode": 124,
+      "versionName": "2.0.41",
+      "versionCode": 128,
       "size": 1383153,
-      "sha256": "b1fb5847eea9def5781e0bf7b15304563aac761ed6720a712028bbc46aacbc0d",
-      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-map-2.0.37.apk"
+      "sha256": "9c03d017dc757ed944601b90b4b30ac31ba7305cfeab81433128a0255ff9d27b",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-map-2.0.41.apk"
     },
     {
       "package": "com.avt.cast",
