@@ -94,6 +94,16 @@
       "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-remote-host-1.8.4.apk"
     },
     {
+      "package": "com.avt.home",
+      "file": "avt-widget-1.0.29.apk",
+      "label": "Widget",
+      "versionName": "1.0.29",
+      "versionCode": 30,
+      "size": 140775,
+      "sha256": "541a44f0a2b3f3d56a3b0c447eaa5515f9a3ee071aeb959ee2b79095a1fa7f9a",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-widget-1.0.29.apk"
+    },
+    {
       "package": "com.avt.launch",
       "file": "avt-homepage-2.10.apk",
       "label": "AVT Homepage",
