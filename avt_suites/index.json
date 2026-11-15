@@ -92,6 +92,26 @@
       "size": 201750,
       "sha256": "f203352989c666a211008dcc81282a93d0049120e6c5ff28cd18f3ef7b1619d1",
       "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-remote-host-1.8.4.apk"
+    },
+    {
+      "package": "com.avt.home",
+      "file": "avt-widget-1.0.29.apk",
+      "label": "Widget",
+      "versionName": "1.0.29",
+      "versionCode": 30,
+      "size": 140775,
+      "sha256": "541a44f0a2b3f3d56a3b0c447eaa5515f9a3ee071aeb959ee2b79095a1fa7f9a",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-widget-1.0.29.apk"
+    },
+    {
+      "package": "com.avt.launch",
+      "file": "avt-homepage-2.10.apk",
+      "label": "AVT Homepage",
+      "versionName": "2.10",
+      "versionCode": 21,
+      "size": 337134,
+      "sha256": "7da0e639672f0411bf8824564b9eb7b7dcc45669066b95959e062ecd175e4671",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-homepage-2.10.apk"
     }
   ],
   "microg": [
