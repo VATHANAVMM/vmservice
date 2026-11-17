@@ -5,13 +5,13 @@
   "apps": [
     {
       "package": "com.avt.kit",
-      "file": "avt-kit.v2.6.0.423.apk",
+      "file": "avt-kit.v2.6.1.424.apk",
       "label": "AVT Kit",
-      "versionName": "2.6.0",
-      "versionCode": 423,
+      "versionName": "2.6.1",
+      "versionCode": 424,
       "size": 19545085,
-      "sha256": "051620e0f082356607a52554ddff0248c48e224a0787b15620f63a23b9301573",
-      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-kit.v2.6.0.423.apk"
+      "sha256": "08f0b46126689fa314df9396dcafee5c1da6ced5bb62530d1b79e1218e27f725",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-kit.v2.6.1.424.apk"
     },
     {
       "package": "com.avt.runner",
@@ -95,13 +95,13 @@
     },
     {
       "package": "com.avt.home",
-      "file": "avt-widget-1.0.29.apk",
+      "file": "avt-widget-1.0.30.apk",
       "label": "Widget",
-      "versionName": "1.0.29",
-      "versionCode": 30,
+      "versionName": "1.0.30",
+      "versionCode": 31,
       "size": 140775,
-      "sha256": "541a44f0a2b3f3d56a3b0c447eaa5515f9a3ee071aeb959ee2b79095a1fa7f9a",
-      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-widget-1.0.29.apk"
+      "sha256": "97e19697d12778f4f0c3880aafa06d00e2765b82a05a1635e0f8fabf986cf3cb",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-widget-1.0.30.apk"
     },
     {
       "package": "com.avt.launch",
