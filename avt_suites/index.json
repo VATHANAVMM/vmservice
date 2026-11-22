@@ -5,13 +5,13 @@
   "apps": [
     {
       "package": "com.avt.kit",
-      "file": "avt-kit.v2.6.1.424.apk",
+      "file": "avt-kit.v2.6.3.426.apk",
       "label": "AVT Kit",
-      "versionName": "2.6.1",
-      "versionCode": 424,
-      "size": 19545085,
-      "sha256": "08f0b46126689fa314df9396dcafee5c1da6ced5bb62530d1b79e1218e27f725",
-      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-kit.v2.6.1.424.apk"
+      "versionName": "2.6.3",
+      "versionCode": 426,
+      "size": 19549250,
+      "sha256": "d80e1dda445e033f0fadda38c457e0692fede1d83d733e07ddc68d9f1334c954",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-kit.v2.6.3.426.apk"
     },
     {
       "package": "com.avt.runner",
