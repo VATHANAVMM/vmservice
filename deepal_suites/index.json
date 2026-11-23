@@ -1,0 +1,74 @@
+{
+  "apps": [
+    {
+      "package": "com.vm.store",
+      "label": "VM STORE",
+      "file": "vm-store-1.0.apk",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "size": 272005,
+      "sha256": "a0aaf19a4c9c8a9d3ea57a31e64c842482f0133c36ccebb0954df8db4f010f5b",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/deepal_suites/vm-store-1.0.apk"
+    },
+    {
+      "package": "com.vm.map",
+      "label": "VM MAP",
+      "file": "vm-map-1.13.apk",
+      "versionName": "1.13",
+      "versionCode": 14,
+      "size": 1399537,
+      "sha256": "327fdd70abb349d814f9b80b656d34c99b3e9ba948de26b83e48f911cda7f0a6",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/deepal_suites/vm-map-1.13.apk"
+    }
+  ],
+  "microg": [
+    {
+      "package": "app.revanced.android.gms",
+      "label": "VM Micro G",
+      "file": "vm-microg.v7.1.1-avatr.5.3.apk",
+      "versionName": "7.1.1-avatr.5.3",
+      "versionCode": 255070116,
+      "size": 47122389,
+      "sha256": "c411b274cf16c174b0942fb1cc0deef687ba2877dd6b5fce51f403ce24d23bc5",
+      "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
+      "hw": false,
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/deepal_suites/vm-microg.v7.1.1-avatr.5.3.apk"
+    }
+  ],
+  "thirdparty": [
+    {
+      "package": "app.morphe.android.youtube",
+      "label": "YouTube",
+      "file": "youtube-vm-deepal.v21.16.256.apk",
+      "versionName": "21.16.256",
+      "versionCode": 1561068412,
+      "size": 129049075,
+      "sha256": "0a11e65076e8fc26c336bd2011bb057b8948f944798e48530ca8ed0d6b32b139",
+      "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
+      "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/youtube-vm-deepal.v21.16.256.apk"
+    },
+    {
+      "package": "app.morphe.android.apps.youtube.music",
+      "label": "YouTube Music",
+      "file": "ytmusic-vm.v9.15.51.apk",
+      "versionName": "9.15.51",
+      "versionCode": 91551241,
+      "size": 76713700,
+      "sha256": "7276059418f34cf9b01e8e25284e36999da6bef4da9b4ea1ccf229561387f468",
+      "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/deepal_suites/ytmusic-vm.v9.15.51.apk"
+    },
+    {
+      "package": "app.morphe.android.apps.maps",
+      "label": "Maps",
+      "file": "maps-vm-deepal.v26.41.03.apk",
+      "versionName": "26.41.03.993332563",
+      "versionCode": 1068821135,
+      "size": 185775407,
+      "sha256": "cdaa49000be3c4ca7b87dfe2ebdce1eb92aef3690b4c12f7aba90a481db60648",
+      "signer": "e66ffdbf2051e227404c3e7855f9a4110a1faf5d1f38e7e4aa6bd0b880e462db",
+      "url": "https://github.com/VATHANAVMM/vmservice/releases/download/apps/maps-vm-deepal.v26.41.03.apk"
+    }
+  ],
+  "external": []
+}
