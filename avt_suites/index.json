@@ -112,6 +112,16 @@
       "size": 337134,
       "sha256": "7da0e639672f0411bf8824564b9eb7b7dcc45669066b95959e062ecd175e4671",
       "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-homepage-2.10.apk"
+    },
+    {
+      "package": "com.avt.media",
+      "file": "avt-media-1.1.7.apk",
+      "label": "AVT Media",
+      "versionName": "1.1.7",
+      "versionCode": 54,
+      "size": 1145033,
+      "sha256": "f96390d8114fe2a9df7c90657bed040b9f6c5cca3bccad20d072798742cc4bbf",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-media-1.1.7.apk"
     }
   ],
   "microg": [
