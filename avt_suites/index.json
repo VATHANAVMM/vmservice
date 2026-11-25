@@ -95,13 +95,13 @@
     },
     {
       "package": "com.avt.home",
-      "file": "avt-widget-1.0.31.apk",
+      "file": "avt-widget-1.0.34.apk",
       "label": "Widget",
-      "versionName": "1.0.31",
-      "versionCode": 32,
-      "size": 140775,
-      "sha256": "bef3ec6ccc4b11095dc15381d0d6116df20347ecbfd6fec9a60ad12d09712fb8",
-      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-widget-1.0.31.apk"
+      "versionName": "1.0.34",
+      "versionCode": 35,
+      "size": 169447,
+      "sha256": "775180992d3ad30e079b170c17d07de2746533bf70e041b5e4abcaff48d539a1",
+      "url": "https://raw.githubusercontent.com/VATHANAVMM/vmservice/main/avt_suites/avt-widget-1.0.34.apk"
     },
     {
       "package": "com.avt.launch",
